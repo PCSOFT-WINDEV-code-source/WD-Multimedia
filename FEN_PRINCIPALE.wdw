@@ -1,0 +1,1068 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_PRINCIPALE
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_PRINCIPALE
+ identifier : 0x20ded830014c7853
+ internal_properties : CAAAAAgAAADyTmYuPRQ/Cal53t8r8JpaA2VbMSBd11LbH4oyJCHxumXc4FJGx+OBc+QSPh2MrDOVe2j4fiAUesjId1KXeCTBivks5I1h6MlvJcCVl3ZZjn/gnopdD/wP1curpNzKnc6bVivxokFphvGhbrkhQz9k5An88ONGfWCkdcghqD313giOKFMGDWDKt9OkXMDyo5fZbDduNJKWMldbATbfsi1f3BVzAd/TWhSFbnl7zOvRlrsryTJ493+PfOF5AUbP/uSMlFCWmkzGZh32M+X7YLfmyEKB1nhdNvk0lp89Lk8+kkj6l3OqLE1hIBICLIgox+M72SFNM6qodl4i110IvVh/ATrpoKNy3IReLDG1dDca/nW1pInsBJhbwO8x5wd4JDqaq2Qph/TzHasxOxlLZDwai0XMgq0JzRJTwKrRj5tnPX083+jXz8L+GUvLg+1O1D/t9HG4FxXA/NaTkjJnkau+F7bYs38BncHBQ+czaQ8V7Up0MGKSVaehoc8MJIlkyn7ySrzQwWuJk7WuGs+/GPRIaEJlz0xWXC+WeIpB3VJOvUGWiQOpeRsTP83+lw2BY5AJkviAlkTV7I6a8cQYyfmDeUVKWYowaCvn7hkqUVptzUTjsyxwAooqrL8KkmoX92ye9siTyXPVXA6IVgu0hJVXoQ03dLvqmBgyUEDc6XqObj5tW2YXd26yyAb2NsLwqmaFWdPASPXnuULIoSPvs+5b7Fo9ZpSwqxDEWlAA4trM4DywVFdDLfV8qk3hzghWJQaGbyN5Y/PIU5j1mIaNvozjWXggWHRUe1awsHKrY93vil5q3BrrCSH7SB5I+PiM0rBRZoQnHWfGRP3mlzMfUWojohTLjl7Ev/Ez+AI2ucLM5ohT8qxQc8V4trAIgMSqPQHdhIB4jZ/gmh/6nh11J++h52M=
+ properties :
+  width : 1024
+  height : 768
+  widthClient : 1022
+  heightClient : 731
+ controls :
+  -
+    name : IMG_FOND_BARRE_LECTURE
+    identifier : 0x2149b8c403bbb011
+    internal_properties : CAAAAAgAAADn9H2Qw1+OiDtVAzj/uNtmkTk6dDW8elTbyo4I5XKTBcZ7sHAzn0XaOHYPJpy49PrYbBjNuVAAK7mme3dxEeyNr2AGyxY1sSNhcJQ06Lz1uELSRFKQ2sbxebzMNEuItRGmElLoplrwr4QBl4RP2HkkPeW2/9wz8Wv2O9mFiGGJbCdKigXa7E7IPPjKz8HSK+Ya8tzPF87ff621hatfVxJBe2vKNhxVwkAcdYbjJgLSatq94LSC3yaYK6HRSbaONZO0F4qI8Bky9a8tXjjgYKvod56gpgC5uQV/5vtHTUnv7igsEsNP/eQczP0WmzrEbrujfoe8a0jMbdEmUopfv93gtaqGkZzNlH3vM5I+fb/gYPrT0Lx6O5Z5yIs9k4H7rJNTBp1ioUm9QGHbxbkvJ8zpimkJch8PdALmwswBBEtMsDY96qOf5E0AGzTTHfsF0rMt8L49uL2+oggq29iUdrRRab4kww1GsXtwWktxka0s45UY1SHrGSVjq36c5IloZV6sZ0cll8RgJrr+vmXViVV32f0r09f6m7KJYb7FOmXkH4mCv5Pcv4UBDEyHYiilIF5kmTyHS9NX+XEzOnZuQ1zWfjHpsq3bUcmCwVA70mTdNKydvBmrcFDY1+bnExjwEIk6MxcYN5RbWGcXF7oKG12G+0c1uJ9AGwcJtf/yr+ySV/5yrlnAx5Xoh0jYyNIdNdr6qZysUvXLDOMODZHba+gIAyxs43mnOirSKAdP2WvJNe0EvBZ2alq9A9Y5dOW4OuTIGmNbsQSTDMWwMEdCc6PGsHtzZI3SzpB3D0cdiNMyrpoX6UQEE9eScZkfuubFQ3XRH6qxYcTgESJJw6faM3Ey6+ML0kVxbvPBPFwzrUxPGJaJFCVlpGULIL1cN4WVhVF8IMM93O9DdM0pqkl5+oOnk3X/ggrJuOjXKT2mV5lJkBCZBydxpHPyEL03eglXC+yQiEQ=
+    properties :
+     y : 627
+     width : 1022
+     height : 104
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        type : 18
+        enabled : false
+  -
+    name : BTN_PLAY
+    identifier : 0x2149cc2604ce64be
+    internal_properties : CAAAAAgAAABNsHey4B89L67ZwZ7+fXE7597Ds+b/kW6b811hjc7K9s5rBb/vS0q2EqghtQQa53LOWBbTr798QWiTYZT89T4RFnzry6wCWNlDsSKYoWjLjw8J6xJZaU0p9UfUVO3OCGmSTCAlm3An/XXPCCwP9W928YGWpmzyknepbvCdHHBaVRpSJfTx2NQZax9pdJDUtt0pIlurisYKEID+w/bEWaeIJbRhX3Law4BrCND0etJhjrZOkLhhswsypjxmKWALSRX2ylbSkHZCul2nY7YJ/jyQA9QvJ45D1c1NNNncu+nwSeqI2PBB8AEa7FS8CWiKvkRX/DR+ImEZ+FM/gOFmPdjHkXp0j6V4/ikdBFOK59+bpbS7jATwvRPnVvH9XwLcUAd1ysggp67XssPoM2osrbEWiwKzdnGXzGnhiTv4vZY8RvdSG4WOr6dlpCYzQJa9TVYgFqiSC4c0xdXBdHVcLeOagA/o53fC+C/6NnUJH1TqcuXmhJq7rCewtGEwxI40Wu3EQoRdxuIrrNhu4kcDJbjChSR0y1FCrx8hqBJg46GPIV9HmanDDOCpYCSky2sAVglpJc2nNdZsN3hU4Sfb4JSzOpbpLZtFOIth9H5ciC6OslQLTYl0M/1V/YGPjrLxjsXvHoqfXw2uPCAmojzCVkDllmt1nHHFPcV8tQjdwGZtJvdLDH7rW7ADjaAkXc7niZjoQq2/HK47OuQK/0i5WpHT5jrFGGhj/XsLJWnoSps9TuVIMgU1uVsY5bmnEVC/wDILutZg0jBhwGCiTduOFxZyEcQm5JZ2ZMQcNx5MEFjoDJ94TkXy8Jz5EF1bWFQtMV0KJ1hFP6L4rOl/S6OwJnL07FbAUFfAMJ7PF51EmAotfbpaqs4gy4vZt3qXFLMpgnaoJzvFfCUJ8fA8fmrupIZMPr5LlQHba+DaFNNPb06q+ZO6pbsbSJiQw6U9Bb/ArSPrmA2zia/rVg6JFqbeSShzkhvSlkl81DSKHA49dm2As+l3GvMZILXqpuG+qwLZtz2/6cwSkswfYKz/zIn2ATsXMyGbYqe5dLxR52JKCKnUqeZoLMBlPla0UTUf4YHKOHwOZcEbhEJOjwc7ydht7AMkauaX5ptHeFHSdw4qd+YQCQtVpKT1y/pNNl3tqlyL5pH2w+3xei+wQrdsbIYSirpkJFZFkDxuj38Cz+1QywO+sCvADsxt+gigzPgJKw/3snu6kL0EWgNg2fT0Tgrgw/FArKx/oFtVPFFcoiqmlofC5S8iJ77w5eqLSoqdZ25bFpDcWlyHyE46qRm0Y6dcfaPHiQ4qs6sqs6RNomLC9PTOlX3PMqSRO0KzGDQ44jnaGu733P7A1dlU9p1yhj/O4vTV/xwYFrx+gNmihhlFV2+X9xqaY8jQmvghOGLlb6TTqVEz4loOKLE2
+    properties :
+     x : 493
+     y : 679
+     width : 36
+     height : 36
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABfGVkhizjQwhXW81wQew6f1YfWoL7rj9c11E9yvCGJiZei0KR1rp2dNnWT2mDOs6RFyDgYJh4v4yfOjW5HGfUNBDix3LjxYSMJa58VpWNfs3Io8TBx9Ks6OSlKhY76SvlYIBTijbqtH7+Co/g=
+        code : |1-
+         
+         si MM_PLAYER.LectureEnCours = faux ALORS
+         	
+         	// Si la lecture était terminée
+         	si MM_PLAYER.LectureTerminée ALORS
+         		
+         		// Redéclenche le timer de suivi de la position de la lecture
+         		LectureSuiviPositionMédia()
+         		
+         		// Revient au début du média
+         		MultimédiaPosition( MM_PLAYER, 0 )
+         		MM_PLAYER.LectureTerminée = faux
+         	FIN
+         	
+         	// Cache le bouton lecture
+         	BTN_PLAY.Plan		= PLAN_CACHE
+         	BTN_PAUSE.Plan		= PLAN_PRINCIPAL
+         	POT_DUREE.Plan		= PLAN_PRINCIPAL
+         	JAUGE_DUREE.Plan	= PLAN_PRINCIPAL
+         	
+         	// Si c'est une vidéo, cache le nom. Si c'est un audio, affiche le nom
+         	LIB_NOM_MEDIA.Plan	= MM_PLAYER.FormatAudio ? PLAN_PRINCIPAL sinon PLAN_CACHE
+         	
+         	// Lecture en cours
+         	MM_PLAYER.LectureEnCours = vrai		
+         	IMG_ANIM_MUSIQUE.Animation = MM_PLAYER.FormatAudio
+         	
+         	// Joue le média
+         	MultimédiaJoue( MM_PLAYER )
+         	
+         sinon
+         	
+         	// Plus de lecture en cours
+         	MM_PLAYER.LectureEnCours = faux	
+         	IMG_ANIM_MUSIQUE.Animation = faux
+         	
+         	// Met le média en pause
+         	MultimédiaPause( MM_PLAYER )
+         		
+         	// Cache le bouton pause
+         	BTN_PAUSE.Plan		= PLAN_CACHE
+         	BTN_PLAY.Plan		= PLAN_PRINCIPAL
+         
+         	// Affiche le nom du média
+         	LIB_NOM_MEDIA.Plan	= PLAN_PRINCIPAL
+         FIN
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_PAUSE
+    identifier : 0x2149ccc204e2c91c
+    internal_properties : CAAAAAgAAAAqL5cXs5qPQFR30sLKHO7Y+on1fsBMiw3C/uiCgzqQb+gML5de/MfsIRrx/Ol3oGv1/wrSa8NQpz//4t1zsWMg/RHC3WLDVwI0I0ZMyetOkX28xgOwdJSFiDTa1oaz40iujTitf40wDI8rz/WU18HvYs9KRKUZLm2M5i5bb4EeIgj5yypScjluhJqWoi0slp7c4lKiYtbcWI6Fv3xbRsqaWzxw5noULQu+up7POSsHpqCiYZOe06+JrgGpcDFaJRGtOR27NvlN3a0UMui23GXvHIaiM8UkvZAyQaQzDg7uWcobcWuS4gn8k91kVDTmD2TaRgXx92O7uj+N72F1l45UMyhhlDpFyfdUeFVkP4zDcSzcugV1RZxuJbAPzZD8pBKY3/aR0kpGrsWanPOURahxAItSNz65YyM7lGP5nrzkWX7F/1/4qEc+s6pWKXLSEBrDpzv1Nz5WLG5/m9dHQIUoQG/KdaaqBsKKlwnNHZ99dLTSgtrg/DQCmudmaTOpFsDLgsq9yhn7OvN8YKY+MP8YZDsUpDwZl/zHfsfIzOCN0k72PVmTpW8bEfPG1LSRFYnSd6UnKWri0AQKopzKYnw/pjRID5JeqSCfu+qoedZB9eYM2Dl1Qpt0HuhZR/9SeS3EvL6e1tzB7pS0AQOprGxbRWKbsvcW9g7zAr3Y2yyNPQlm8vF+JY0rxwInNeNeSFzglhZXxkUfq5dTIRfFHj1f/sqnKti6znPNJzF+Iz2Ln0C98vduX1Wr8RxBY/S5zp/jQSXOV35JvAVzA4Oa5/DdIXwVVZxUSIeGc4QHrCgC/GvJwq82Km8AYtW+pcLC4XlPP+We8r7MMTpBUCjnJaP50jp+LPNi0KMiMr4a8rmEydo1AUNaBa5bpAKIT3mkXS7+pmv5zcs+NqGPDb1UaUwfTuihugx9b+CmdMG/JkFcRP08eQqECUwBTgTuzHWwrYZUTQvcCVtwWnYitcjNAQju46TFqhWq2Q3JPPgtaTDG5S4AhMvEgOheyF43uCrOmGZUX20voZ10IpYHxXSISv3jwfrHED+ENRQTSqMFYs7d2XyFTWyGJIVwymodkIuTdIi9U7fe+CloHkwBAoyqSLAAYxyO4BY0wcZx3HKN4dd0IdFhnWJ2yMTEYn0KuveMDy/Q/mN8OAMljmBlec1lNwsSnVoFvTojF2s8DCdVX86JJfOX06qBomqoKisYTdEdqmnF/g4lzAU0mJiRLFJy7m69e5IiQRvM8aGO+JtHlvYn9MUuvImYUTqBH1z5BPffLnE0SL+m5W5vWyUe831mfcqmjSjyH3dV7aUUHVTJs47GQiBtCEasReKvymRjMoJLv8wTVCEetIlEcnzqcyUYrGMZfldjgLyEBIbHPKA+ucgkXmANssdyRKKnIrSWzQ==
+    properties :
+     x : 493
+     y : 739
+     width : 36
+     height : 36
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         MoiMême.X	= BTN_PLAY.X
+         MoiMême.Y	= BTN_PLAY.Y
+        type : 14
+      -
+        internal_properties : CAAAAAgAAACcFW4DzC8nx2Z7vSR18ay2k7bABSTjnLfWDLuAbHftX8L3MaDzWp/+dyqqOuynb4baw/UULx1VL+RzbuBre743GkjcQ3ufjsFeF2VOenMIiVd7dYMOc0loFoG6nmld3EZsYF/wFbU1OjLMg0MDtNY9qksh04znPz+vaSBz9w==
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : RADTITRE
+    identifier : 0x2149b76b025869f8
+    internal_properties : CAAAAAgAAABA27sTolOio8nA03bCTEgdkTF6t9391OCzvJXyT8I2QWrIRqD8u22BDERU48EgtczW3evj/pPhoR6Uj/RGz3CKpXt+LIPkHUx2qVxz0xnO+DdUb/1nQpwKp4xxckFb3DhD6GOpqaxcyweIjoS7CU7yTK7a5woyvY2/X3XO61zBcp8GN0lsPV5cGo3G7nxUO399Gl5CnkWz5SzREttmez82J16OX+vinyjbg9MG/P1bievClVRMWdNeKlyb6O9/vCocCIavNo1l8A7bxwQTcqXeFsvmM8dlTK8T1wn798rfx9GIW0QgzRf4PI/Ayle7VNfj4dZQ1dYsRL1GqhtmYwKRzcu1GXVQ4DkDd7DFU6dpzlJzk4iwWKjtcVchPMoWydoA3szt3y1N9uRyjolFaNu40lYNO8PcHkIXUeqjLRhaB3eBguflFupp7jTLEWXThC9nRSBE+D9/kgOfLZbyQX5PQOCJK/e759B6uQuQdBpvLPB4a4ioO7pM07uDXGF6zNiWMhmAvvrIJWConY5dYWNYaj5302c=
+    properties :
+     x : 6
+     y : -34
+     width : 824
+     height : 36
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_MUTE
+    identifier : 0x2149d43a00edf3d8
+    internal_properties : CAAAAAgAAABtlADhm/KpE8AD1qpJtG7Y9WXoBwO6lRcOGA3+Rm98oc3u/iLkguD239C7T1mV7vQWbgEE10n5LAkjIHmHytiHySnCoLBAR8fXfI6k0uf07ZkYgyYLCJJhi9HSAlW/Re4LPmsoeGNWf4CHrSmwx6YvF0NT+LegqVWZUXlhJp6/4WNZIM2urKRNPSb5MGgxgS3LON3zabo1tSv43GbkKH2DjRxmsP/sDwlda5Pf4x5LR3Htbp+a0CKQVmSKa8HsWTOECEBxQpk5lzIHbC0rPfEB6j8BzgPGf9+0mWWrWa78XEaFUUs/t2CYO7L9q0eDm64h561yFcgnWwG4tinHeZH59iIiDEmyaN9OXzyRXkcwsSgCnMnMuqJhCRKgRcVie7pAzzRU9p2jv96otDHN28kPmlc3Qk2xKmAZP5HsPGG3h1VBjJ9euu0p8ybRUghGXC9GJ3HYwRjmOYyGSPAnlgO8kG7VHI+k4rAJparL+HnKPpcy1sXJ1bP8lTE3YUInNYAunqf4sI42InqaBkWwB0RfH1d3ZOS42hRN9bataSZF6pbqt3qM0knDwfw7uqVKq7zUPBndDC4CCuTxs3lWbaCEXOMhtFEvnn70G9GHScMo85CImWBRkAy6dN5YYrxGx+NWhhybfmxd51fSA0XLZV/TskaJJiCiTyV88EwbPTmfebjeledyHXKa4wEM6Cf/4X6nmgsX2xtJu/mn8uE3tYHC4mrAblpN7FKFhGz4eLw7xtwakdPslEWkuCG/Bo/6qhF+KmeIYUg/PvIhss/Yf3MoLyUuu0GKYNdZeRj208YcZHpJ3T0tdCwTGFjKo2QO/0NRC+foR4Zpt10hgmaCAtOsglnjHYT9Y+ifuO0UHATsg5GTjDXABO9wvvO6eVWqR4AdAHPTh5tr7Co0UneuENlmmF9JoBJc8k52pTT5vg4iq8NHiX7gJyAFv52mwEmbaIDtoMnEESnpD7uIOtzDrhAar+CkVB3YdIfSrD9plWEym2iXZa9igA19qwg6gUEjfynoyvIlOsF4Ml943sz6/SwUp2n89EqYbOnNegwS/q2BS9J1ZrI09z52n5ZwcNVhzw8dLgkLISNQZqzoXyhU+cRjXdpkCoREqk2OLlfSJDfLrazgAyVoEsJ2qbbSFXddOZ3XBYv3m+weMDRP8Fr92UYtoBOIRE2NceECMRBFyuEBkxIrXncfJ0K8r7ts+R6dDM0naxcNWwMyTIdVNgjQxDMNHlKGCD3Cj+O+j+TIYf/ebGT2jrYeOcrVtGmj/EA+f+0V6PczE2FPslny0Jau5yhjpYCMbjLrPV4euVcGmLjVDYKvQcx89idpV/c1NfGQlFhHNE+tCQOwSRYYTifvDuNVGRJWTiBGmnLACryGz4mqW1FhqNUC2awDmqC4MaJGKlLdn2rvavrZysd/
+    properties :
+     x : 16
+     y : 739
+     width : 36
+     height : 36
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         moimeme.X = BTN_VOLUME.X
+         moimeme.Y = BTN_VOLUME.Y
+        type : 14
+      -
+        internal_properties : CAAAAAgAAACLEHDk4D69VJFxd8UGAuirSn/WWqudsSqxEMEROkc0ePB6dQ+Xx9RMCpbVTBYp2J3JOK2mD4imipVhyota9rN2T+Yo+q9hnwC1CqQqU3t3FGScrF8ZFEdKYMfEqX0CUNSmWzeLr9/ShQUjLTuFXJans4ycHaJLLPRtbcg6LsY8
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_VOLUME
+    identifier : 0x2149d48201080d76
+    internal_properties : CAAAAAgAAACMPdWHBPt1FaYdns+L0JsJFXFj3AiO8n4vDcsOA/bESVHhvLZczTFRa7YRwR9nMyFFRfRWWhTQhhhuVQKYanN6sbl3QGPDzGCKpLw4lWPFP1Glg0PMhOvetCx1h807UjaDnzy2OWR7AJUSByTIWDXX0tePbbbSNztNK+oW8//Ur7uXYZOGe1KAn28ZCd64v2WP1ELCYuqw5LKFQU3/sgSX7VLfCta+s3jKKG6Sbjs/Br7LnV8l3MydTYf4G0BWejQ6idV6Yw1H6PavwM5KiD/znF4wBcX4XSdH2RdJTffPtU6sbL94C/Y00HRozhbrM5WkuIluZywgVlCT9QXL5rbYNMwH8EPAMnwE5/HzNj2qEW9QBKBWKyaWBgWccIY4yEh9D0V76UplOhvvuW9NIrcZIW/K7kbmZLOurkYaU5T2xnYEOQXV6GQXpDUUlQXQw8glQstkoQH4cRM6vq/zC0oAF2BT1BS3zg6AVBmwouWbRHPrJoDYrBpqcYRqrVXvst7ovNE+LLChWMV81JwJdmEY4PBbkbwQPA78K+u/55jKsW2wkzZme2xkiJon2sN4z3yfJ+ekNSfz8n6k2VdrrsDUxVoHSNQnVOA7tPKjX9xRPhgwJ2jJGfEK/+hp+eOtZVl0VF8Wq4nEB9RQke/WwmxjiZDyuyKJo4oUcq7yPB6/YqnOCNtQacL8Uefk+bv1NMDNvorYUHEXZ+FUtOPUvKjcr1Z9cvWwLckeLzdsyPXA72UgcwUwZtxqZvmWd7OzaQj10W81EEn8haOvhJjPgArvCkdZ4o8kP5gZVRPFFpPpO0NP+KFXJqlT/v6Lz+2zCZv/7Kc0LOmMmCg+z+BbDc4/FQ8fpaihA4mdtQKANz7TBV4PopsyWHciDKhtzx3OO79I7xrneD5g1Y3cAjRLplBlifc28Gj3R113oyICoYtFaD7vUS02w3TZ0qGgPzFaST6ndObg0dE4hvj8gNvLmIa/ZV533tQhkl2RWoGFurbIf2TCxxYFE4ZMIVAMv/njDrQTDMUQYFsiTHuPw5i6dZcdBTxawLD4jn4PSc2jmNwDqJlIt8ViOHtJ/gB7awJvCK60Na4Bowp1GmdCSkrjCad5QPnvoCEThhD3Jy4dyEJqO3yg85TyC4Gfl0Y+hkrDEtCUbJEzRD2Cr67LhlNM630QP1HGPsfM4Ns/jTNkTYxFTyCKydigFRs18aQ8uHxgHnB3y+zhJAVbGXJCwS7VxxxmB3nXsjBM9Hx/Npz3n6iqQq1aE46BQ5S3rNE7nBlx4bctN5oZclTC4bxcO0H7FYCC6jHumVcjFGPrTznmOJxqOZv3g2GattUuIC8UP/ClPEpHvkPIglqUdoKehwXP8yzhMaSBdg==
+    properties :
+     x : 16
+     y : 679
+     width : 36
+     height : 36
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         FEN_POP_VOLUME.OuvrePopupPosition( popAuDessus + popSelonChamp, moimeme, MM_PLAYER )
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_PLEIN_ECRAN
+    identifier : 0x2149d4f40130ccca
+    internal_properties : CAAAAAgAAADrP/P9CVsppFwb4C49kjvxvnEqGnZ6jeXbmvzm5uP064N9VRWJKexqsBseBhf0rC/F9sHpwL11i0KbmD9h8fz53YQWCwnizPkL9TF978EMFzIwnYqF087p9uR0nRLl4QONBTRpzRl4gvXM90fbv/kF1Ku1UJhIYQhiUuZTQKw3tTRcSHuErGaag/jRtr7M/TdMka8uUgGsgl2tTx1J07JrcIVeL9b3z6InSos3p+0IlzAqaTP7VoRAdQqFmx2Tl2mag2Vp6iXWlqdKytXtZaLHM5m58PYVCHO3bFe4VR/JGIwjnEpkmCp7vrmTm10W7MKmqOirQvEY5KZlwQ+DKwLwWARuI78CHDr5X4L26XhKe42EdqZrZRF75Xg7mGJyM00ClQpor3ELw1x5Dry2ECSMnYLLj9+PGU/e392Yr5Nzl7DF4ulzfVp73rCGdZ1iMDtj8EWYtTJTFguuLMYOxSPcbxNIWwL+z7UaIEWW57BwZbEOXiBkxbs20fGJvn7bZmWtsd2QtSgytmj1BdWCFJbMoh4cVI3/ym09CvYdJBM+xQjh7eh7TpvRPwrWXOF6l7D9mxWqJwK2MGEyPKQz5WS6yyEkh3wBOF244et0IuPCnnLKUDbf1/sWjBfTeNx7n2ZOKb1QGm0UW1oNKDxkQr+3p9OfvnqU8apBw390qjPbgHHmsAyNN5wwvQYUSfnB6JVlKds3NozaFZ+PPk3Phtdkx1jMBHGIg2Kw3YNLUWWeBBgMmeF9ufIUS4wm0LPbN80ui58FlbHgDGyPbItYn1w09QPkGfOsBT+UcGbFOvUKSydbjUUla11Nl+uqZad/feMmheADaaET71zbx3VnD1vpWwxLyavTLc6RhlD6A+wP9FWPu7S7DCJuAPtxlf7fznU7Bnj9LqSzyUUPfRychEzx4eDbiKSGGNYW7p0WHQarbXout9X/VUqJEf01L55Bb571PLrPuD8tJL/BwMwdhlqhVIQjO9e5JOLZn8mmGycdCeIXOJCDlfD1GoWm8+DSz+70OK7Je2129bojFKvOBGSxCS3AcwnX9KVF3HA94crg69N0Q/1yQ2Ti2hyH2lTeXmro4Z/iiM9fzvlfIqiv5FZyhDAl2Dp4owFfKAg1myRrdrkEZja7omrmA2ija50ZbNIDrt0IVqyTnj+i9vZb4rJhQ9DI/DnyRdANL+HbwE9JNBK46XOwooyTRKVP3nT8SHqT7C3Ytd6lM6itoGB89ADIiigH7FywuT49sdciKL+HhfGS77L7/2St7Xh/uj8VHQQVQ1GAlD+uVQyUTu4QlNU2fKgKxFOQLPLUadPV9d3BfVWToeh8xX0FXAyjYaXaEA==
+    properties :
+     x : 970
+     y : 679
+     width : 36
+     height : 36
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Arrête la lecture
+         si MM_PLAYER.LectureEnCours ALORS
+         	MultimédiaPause( MM_PLAYER )
+         FIN
+         
+         // Passe en plein écran
+         mafenetre.Taille( taillemaxi ) 
+         PleinEcran = vrai
+         
+         // Réorganise l'affichage
+         RéorganiseAffichage()
+         
+         // Reprend la lecture
+         SI MM_PLAYER.LectureEnCours ALORS
+         	Multimédiajoue( MM_PLAYER )
+         FIN
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_REDUIRE
+    identifier : 0x2149d530013db48a
+    internal_properties : CAAAAAgAAAA4DfLYQ7lsZOX+XiBs5pxlsY+MRQPUCC1i+7LIWVI3/qm030G86SuIr0ZQ8axLvw3BDem2nNdfqTMV8ifXBm8VnCDpFtTBJc67ZFdLw47IuW5sdBGcd9GF3d53PxSVXIXeCEMxcaWHMUtiOrpr9gffjjwmLn95C1huqY2wbPHWW4drZ3aDXdwQ6LpR0ie1ddetQbkYwCJAyyp7UKD/M92w1EwXQOOtOroXt6eqEFdBzb4Dr11nMsE6nrJRSd/3T4NOW4AyxX0cuHfoloVbpdXDXDY9jxCCoUPnV/+fnhgkDKRyy1TcInatMEq9t2LAK5DVI9R+ORKHpx3WlaUsIeTmCz+/NHngiA+Bs4l4sDZzLPFiwtdKmW5ol7m2fLKQ2eaTsNy+4HyVXALoJz0aSeIto5TPrYvBrIwRH8kqw66QgkaJYk/VcIOzuaI712PzO+uKBRhPwA9R7riAturG+11Cte04UCUB0auHT9B2luSvoIncS3CEJxw3D2CZBKHi5R/oiVTz0a/KOhIL5SI6v8jnbi+4XgUzaPg0CPZnPrpVmFviFUBt1eSLoLT6y17QWInXVyipn/47a5CvlU0hOiixCw4RZR0ibTbzyLVgWa8l43Jzmm0Aczs87DMhlVsMKS9Y4rb0QYNY1axOo//gj0Cc8btwCVoDHvwZ6YWds0VAAjDQzzYY8ytbP8A3BWpMnKVMI3rQ4JF8gj+/Qe7iacknDnG66nIGEgTroe/R1nyhHbdupcFMtL9lCJBi/Hl59rdtxOFG32UnWcoDjROvWxn8uDDTVl1BddjIXb0c1M0xP6v9QxXj3jjECEgh2tx7++jOQaMkHJxSNMLk2iXGBMXM2phKJ+m0D6gwUbu4K48Gx0sgUmH+6X2FqV8jnEnVogSGuJkg2bsbkJxp195RNinrbdM8wHLTERuFerIJE2Fm4ECbeclBL1LOUChwLOzwzQjb+Vn6+ceLjSfOXVqETCkfVeu4aPV9eMfbPggGuiFbd5kM8PSWm9J6dsfc6d/U2qvKk+H254oUEmmH2lzpyg6JmnnBeUtfxPqcRLIBxiLdYgHxkSfIJ1dfGbZPl/4/1WvO4EMpgH+sAX4V+DIzVVeyNS4rz0wFBeoW8p2lmKQnpiRcdEHB2hhIKOOaTYaFBOKYTj4KYjD62KaLhfsNF9BNqWL4dHcTx2biA3BO16LCeqnyQhq1V/tLK0bDoeoxTQXjhLIyaVygeqZgkKKNp7NnlR73hWRGx3+GtVtPXyEWhIQbRxWwFX40NYEYr/TXMsyG2cQuZjYUwTm40RdJir0sKnpx92MhDvShGkntEZGPGZ8/4dRFcc4PVPHceFHgOn4huDDZZZ9ml5SPDdIH3Gho3QTe31pmRLiTBGvkOOiRBeeiPS3yn9nHgfY3medDqPfpbKE+u9A=
+    properties :
+     x : 970
+     y : 737
+     width : 36
+     height : 36
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         MoiMême.X	= BTN_PLEIN_ECRAN.X
+         MoiMême.Y	= BTN_PLEIN_ECRAN.Y
+        type : 14
+      -
+        code : |1-
+         
+         // Arrête la lecture
+         SI MM_PLAYER.LectureEnCours ALORS
+         	MultimédiaPause( MM_PLAYER )
+         FIN
+         
+         // Restaure la taille de la fenêtre
+         MaFenêtre.Taille( TailleNormale ) 
+         PleinEcran = faux
+         
+         // Réorganise l'affichage
+         RéorganiseAffichage()
+         
+         // Reprend la lecture
+         SI MM_PLAYER.LectureEnCours ALORS
+         	Multimédiajoue( MM_PLAYER )
+         FIN
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : JAUGE_DUREE
+    identifier : 0x2149d67b02dec3b4
+    internal_properties : CAAAAAgAAACYvOunKFhvC1vZLoQmyctlyttptXP1KqvFQNcajcxXsI7IlZG5kaUPAJnMZA5XBRA0nqBC5fON1zRl8QmLS4Uh55Oam8Q5NK+M2i/TLGyxcA26w0YkWBdZm5Xnn8RVQ8Qp7MWwQwnvmMikcyRkavXErgFwPLEAc101BJaPOgyA9Nepiz2/wEJs1A8iesuccRXMWqvz/kqBYUM8TW13HWAneeHcb3hBn+E7Ou3XTsvSagMR7tEmKSsOy6WK0U6fMFbjyDqka4Es9mx6DGzpxCnWnYenp34DefsQrNBcsu8US0iRbIb3yxYkYFX3GL4H8lmQQCb69IIKSg9DiQnAbkYYQmIWKE/GUgH/sX/u6cgmEwYBb2YeB+sVMNkqlQKdOAQLoxt2CkwCPFh4s4YFevbewkRO6aigbkwb7kj+kwYDwdrrusHQK38biQpZQAPwZgiDA2Nbq5NExaJp/5FiT/0Usjon5vBzzp34RYGoHs7CcI7NFW5hdE1xbtHUm+o7fbkAIEPoP7tOTspZkwXJvTpOLF7dxqq4B3K1E+Z/IJ835OfGdrFo4mMsZc4JRKbeeD2di3A9uZkS7ukoC8R7mq5jIOZNeMM/Np3+VrpNWpYSr68vb9Yv6i3QFDuLnVEbjZB/3zqce4f6faE6ckMfXqxy2qYvKWxb/B/Xc450zsFgPotS9GNnKYcyF1WnxLYZbfXQYzkSGPQXsu6GI2PHr5G1X1VrGit3uGt3NUxl1J7UvMIWGwstkl9XRfS6IutMa1fP9YDPidQw8TYfMtAbBRGb/ooRF19pSM0uR0TOt5S1SJCeeaBWovh4UhEC4KF0NHIF7r0dNyIq1RFtWps8QHEzXBrB/G9rBBah30mV6h4F9KN7PleFHls8MCy2t7GMcGCx62vMhLo/ipMuB/GIOdE+22TGNRu/qC+zW1Sqjx68SlTGKjAEHeW8MF6pGdp6qdvgOBwB/QYxGP9vxP7w63CAoipjM1Jk4w==
+    properties :
+     x : 16
+     y : 647
+     width : 990
+     height : 3
+    type : 10
+    code_elements :
+     type_code : 17
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Jauge linéaire simple horizontale sans libellé
+        type : 14
+  -
+    name : LIB_TEMPS_ECOULE
+    identifier : 0x2149d70f0332047c
+    internal_properties : CAAAAAgAAADvbL84BlOf/Ss4tAXam05js5cnpVVjSKAPcEOtIT2qeSa4DJTPtPTcbUevHTImyMv7qKXMLbVTEROd/6OK8QxSL0kpd1GYmZfF/efRLGNSUwDt7tEfNl557zArc0OE4QeH/CVo8bzMit0YPbMBJs6n6gpQoTWGQYVjUXjrC7P2geV4qyy6k+0uG5ediVRaEEF4lMsjltjAw1Wu69DJ1ReZP+oGDJ8qx9pIP3mlaWd8NCXQt6Cm6Ks7ZxYELidog7bImsG7Un0sEEGltj8YDYtdflogCv2Mb1Wf0yhAOppTkQy4KU/A5FxwmFdeIZTIoB1G3eXaAy2FJ92DVQ69pttX2opDzdm4OfMTQst4wzhYed7UXXGf8o11723vMbvdzcmo1OXupPBS0azZ1ePp1vP09eR+MHs4+1LdjNyMrSYV65dWQwspbjEzqN54SCktQy0iufMvH7meaog/mituDcqmqkeIvntgfR8PiP9b9E/EPckp6eIOpxIjNY+SMmswAGwvdrfDK5bzSPKR4ApOc7CEgRACrVW4b8NP1CDqZWt/YYNzfoKHPawfej+urv4KjOdpAP9Pm6keVli3G0OCF8yiRyD5/fbbEtySD9LfZFM=
+    properties :
+     x : 16
+     y : 659
+     width : 165
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_TEMPS_RESTANT
+    identifier : 0x2149d798033e1a0e
+    internal_properties : CAAAAAgAAACVqIePjEIqDDx23b9xk/b730+l3D5muVuiSzQDNnRcucVnrRqUS6/hSztGPE+kSIFKzjUaDYbCCwIkO9lmVDc6OUQeAQJ7AJ22fUcgHBLT3PM7nv85yhTtaoq0KgQkSUsBQEn9WNNy5bphQRV8BpU/HP/3I0AZrNjFQGbBsXYmLaTL/hZbZExgcLJFyhvENPyAUG42wYIWQpXoXR+Nw5RwUCE94E/cVxvQwinKW2Ck20atm1UcwugWoqrPewDs82YGikgUovfu762XON3SEYoO+NadeM5CvvSvzGT6O48XuGnehm+9xnhRCaUD0XcEDx3oP7arUtQwVCWvmB4AJK3UlxnDmNfyhiosyXzizUWgH8mgUe6OuUx8NK91rTXY0ytZ6u6FRqKd2Mai0YCXf3nFudzbs0T1jvWEsYhrSrBrkNqAacI7hoLyLztydrz4flejI7XZDM++fB2xD+A0HjT+2mKT+Cgbtn30R7MvangyGWk/Flud4umK0h5tpUghabDSz16Sswyf6296kXZ7YYbl7VBbrQhUHOajxdCRZQGgX3WEzsAlkPAtlnS0jSbuuToe1jswSgkST+h2ZKwikNo=
+    properties :
+     x : 841
+     y : 659
+     width : 165
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : POT_DUREE
+    identifier : 0x2149d7cf035df403
+    internal_properties : CAAAAAgAAADgs3hto6Qas8Hlpqwp1WSvEtt4JWZBnfTb33usJTLQ8yKPb0Vs3WkxThQu7JdVnvA9+FzDm+wvUa8LOMt8vIQ5Pag2WHbWb0o+uSPFwnRhnB+AdGUiegPLB+L/cNblXYS1pbwHaYRJj7Qe5FjIQHFJ27Wq1vUyk6t9nkCEQIgdAEEQVVv8yf1GkKk328Gfq8xv6dhU6qx33YJfF42Al5/22vjydZJsKAys/Yr02XtCoUCDkEUhJ8SRSuFlUECNv4KpV3kENQOcrO8pzCgKTPuJu3G9MEWvad+Ooxrejhf2nmX7KISYGQBsZCcAsdYyHd0Ru+svDvW0NZvsX86NtPDfVJqDmsDa9GeA5m+vmveDUIrjJCKEiir7HIwnLm6badzO8rgrKIEXI9RvGHRNZB+1f6ssJuIVnxSFMHloiI8J1FuLYEEAabc/y8tHwA0i5voQjvmlCkmcVy2BsPQrMbcXZKVjGaJg1hPxzsminWne6s9Oajf/RH24COUNPM8Dcq7odNnyM3rg4yKOW7yUBqUXk/zCwNTPCrfYyQbrNjucZXWqfKSpds7L7uK5MVhQ4G1L2h8x6NxFMncTOowPZ4SUPLSKt4gRvQqWcUcOKqibWnhKWZifVS3AKMJbRgpFVn/f4XbjeF8/E5o6nWHb1DW6nOLiZfYqcD22Ie8z+NuBBX2/7hzCWfaT4EOSfQQgGdQiXCO/jG4/3vUpSRAv0eUmJLPFIoYbtxXb3BHDDCeiFbBmJGlAKmJXZkdTHLLWYnlDah/Rcrm4UCERjZryikawi4LUrYPa4eoCwbzcY+UP
+    properties :
+     x : 4
+     y : 627
+     width : 1014
+     height : 42
+    type : 12
+    code_elements :
+     type_code : 20
+     p_codes :
+      -
+        code : |1-
+         
+         nDuréePos est un entier sans signe = POT_DUREE
+         
+         // Positionne
+         MultimédiaPosition( MM_PLAYER, nDuréePos )
+         JAUGE_DUREE = nDuréePos
+        type : 28
+      -
+        code : |1-
+         
+         // Si le bouton gauche de la souris est enfoncé
+         si ToucheEnfoncée( teBoutonG ) ALORS
+         	
+         	// Récupère la valeur sous le curseur de la souris
+         	soit POS = sourisvaleur( SourisPosX( spChamp ) )
+         	
+         	// Force la valeur
+         	ChangeValeur( POS )
+         FIN
+        type : 66048
+      -
+        code : |1+
+         
+         // Récupère la valeur sous le curseur de la souris
+         soit POS = sourisvaleur( SourisPosX( spChamp ) )
+         
+         // Force la valeur
+         ChangeValeur( POS )
+        type : 66049
+      -
+        code : |1-
+         
+        type : 66050
+     procedures :
+      -
+        name : SourisValeur
+        procedure_id : 1246153700909727233
+        type_code : 14
+        code : |1-
+         // Résumé : Renvoie la valeur du potentiomètre en fonction de la position de la souris sur le potentiomètre
+         // Syntaxe :
+         // SourisValeur ()
+         //
+         // Paramètres :
+         //	Aucun
+         // Valeur de retour :
+         // 	Aucune
+         //
+         procédure SourisValeur( X est un entier ) : entier
+         
+         	// Calcule la position en fonction de la coordonnée de la souris
+         	// On décale de la moitié de la largeur du bouton du potentiomètre : c'est son centre qui détermine la position
+         	// On n'utilise pas toute la largeur du potentiomètre, on enlève la largeur du bouton du potentiomètre.
+         	renvoyer ( X - CoordonnéeEditeurVersEcran( 12 ) ) * POT_DUREE.BorneMax / ( POT_DUREE.Largeur - CoordonnéeEditeurVersEcran( 24 ) )
+        type : 458752
+      -
+        name : ChangeValeur
+        procedure_id : 1246154731702052596
+        type_code : 14
+        code : |1+
+         // Résumé : Change la valeur du potentiomètre
+         // Syntaxe :
+         //ChangeValeur (<POS>)
+         //
+         // Paramètres :
+         // 	POS : Nouvelle position
+         // Valeur de retour :
+         // 	Aucune
+         //
+         procédure ChangeValeur( Pos )
+         
+         	// Si la valeur est différente de la position actuelle
+         	SI POT_DUREE <> Pos ALORS
+         		
+         		// Change la position actuelle
+         		POT_DUREE = Pos
+         		
+         		// Joue le traitement de modification
+         		POT_DUREE.ExécuteTraitement( trtModification )	
+         	FIN
+        type : 458752
+     procedure_templates : []
+     property_templates : []
+  -
+    name : MM_PLAYER
+    identifier : 0x2149d94903c8b826
+    internal_properties : CAAAAAgAAABajGeOfMZid3j7kVHFMF6YD+WeoUiI24Ci/W4R5UwMxfg6rThOmQ6+/nLlgj34ETeUmsfUqbFkSxrWUf0Vm4cl+FmO4ZrijDAUsd0Xicj7EQowyln3kts5LwqUVgT6oyy2KGD+WZ9tHZNkijHWfbMsGgS3Chc58um5BUD1UyTyxf/az5DfVC8oqTUqCNtoNDXYEmcTzk2rh+CDqHMCiJ7NLcLWQdV9GrYSdNKdqDzMk6GGWNAOURjTtJ39G1Hcw0qKNRGPBBWfzeKog6wWO9JtCCpNNuu2BUO+Yd+LYdW+M0YwVtwMsw/tjtVrnbNSyDipau8zayObFB0TWt+4HaopAbOZW9moPPHdPoQ+cC44f/jr7LZRirMttO/z1nwZ66BqbbTsgkDbn2fGcA61fzOnI6tkLwR7MVmU94IB5MPv7E6M26udCGRDgAG5GQuuCzbgIKsI7rOUqGRFYiDydQtDNkzL4Da4Hnd8wOElQQ==
+    properties :
+     width : 1022
+     height : 629
+    type : 39
+    code_elements :
+     type_code : 97
+     p_codes :
+      -
+        code : |1-
+         
+         global
+         
+         FormatAudio		est un booléen = faux
+         LectureEnCours	est un booléen = faux
+         LectureTerminée	est un booléen = vrai
+         DuréeTotale		est une duree  = 0
+        type : 14
+      -
+        code : |1-
+         
+         // Termine la lecture
+         LectureTermine()
+        type : 109
+      -
+        type : 164
+        enabled : false
+      -
+        type : 163
+        enabled : false
+      -
+        code : |1-
+         
+         // Si on est en plein écran
+         si pleinecran ALORS
+         	
+         	// Restauration
+         	BTN_REDUIRE.ExécuteTraitement( trtclic )
+         sinon
+         	
+         	// Passage en plein écran
+         	BTN_PLEIN_ECRAN.ExécuteTraitement( trtClic )
+         FIN
+        type : 66051
+  -
+    name : LIB_NOM_MEDIA
+    identifier : 0x214b3bce1bfd91c1
+    internal_properties : CAAAAAgAAAAoKfWoD1sZNLvhwZFIVAweM/vSRKRZBXszLO6ajoWu2oBpYqdzFD5U1dGK/pfueI0HQQeTNbU/MVVcnZyv25YXykRPsIAzs9XtDmyAw6H5z7QUv/YIseFn3fcKWSLayjiNqOnqTzZASdwN0F+3F/dFRN00Y1kfZjpjMopiqSRidk2MwTHh58OzWMSemH0et8t9GuzO70YIZWzdAvEHZlTsMcZ9REisF89jxcwm/z6MYfQv/ymtneU7xx+edQkQ/aS7Qbfxfs3vzpPmPwmC6cQa7ZXNaWTk8hsQhUqBUtdjnvN4jmlfeCkNQVMv+zkohc9iGlNmiyFdbxXwi6iLSsGnE/ygLvBpK4LQdSmepmDsbPDNKnCGm2YtjxauLM2Vdrn7Awnu8jO8WXHUUcQT9RGm8M5FI6HNdv1ya/VlyFJVWZUTxlYy7wpF4r1fkDGrttWN9CIImJ/BMR57FH3Hi1ZTy7yfb6yHqa7c6w9mSvU7XLiQjJGxSVvgeVDIsfMYyJqK+ijDkJHHkFNIlcJGUyCmLHHQBdMhdnr/0AEwyfZa551fiITisq1esmeakDblJ4GZhXzp24TGmySXkE6f2I04f0Lpm28=
+    properties :
+     x : 16
+     y : 553
+     width : 990
+     height : 64
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_ANIM_MUSIQUE
+    identifier : 0x214b3d861ee94833
+    internal_properties : CAAAAAgAAACkyo7jO8lYdRVXSZzuYicyDIQbzDBZNbV0bgp1Bxr5ExFzgQrCklgHDQqf6PVvi2sPdZlPGpUZ4yVVSoeSHCS088g1YVaU8SmIJ+e4Gvp3d0XlWEVjAHR+iWUePKZDpm5lXZIo25on9UPttIG0CY0ZjuFBzf9wICuEeQ94JVVihnLbStbMIwVqq67cUKupPkGro5jd/mpcnyJbIVHz0DGBhESa3RjAmIb7SoP+TJAWlglDt4+2DgMgF92PHauOS6RTP0Ne+owo77AQCy7xsYFgLsPm4cUknmmn1AH6HIhQcvjQ3hiuuF5PBCV/PCZR0ElhVPObi5NYd0pNu5vImKvENQvHGR58VuPVdNy8fyjXDidbSZtvN5qdCST23vsb4MQqjkKwr4Psu0Y/opIbEdbXX0vD3WfmUjjz29ueNJRkgRXRncOB+FuoTfDT4+bZqyX22DmlIbSg8ZI9wO+9wY3+P9OCoYOV9nIQEsszq41QqI1TbuhcE9AcRk9xuzIidb78SeW3ZJ2NdUXA0p41o63nUbfBP1BuzoRtZgLfUIGvan5Ini0l4Nw7U7x7mHu57vTpNr9oWdzcLSiFKC6hOC+Azzz2b5+rwz6M7+DBoAuMG/XmKF0Uw3tA6asReO/PT9sbXfCL3YK+xJ2ND1w7j7IX8u9dscjGLmmcm3XTOOszzhjAUsq95+fpkUp6TbIHV1A0BZ9RqZ8ZNXgCMwCi4WukhIhW/kqn6m+st2a7jxfwZF0qmGxe8sG9ThYERRWHEAYozuaNVtld8q7cs/NCvCw+uLQ3zenKYX6rzzQYreE8bvA68NwxnIGyjg5eFP5LaXA9LGJDD3KvsSiIvew0nCHTqPq9Oho74VHGUww2X6VqOZE3tBu+W7HRHLCUIceSE/ZemCSnSOPfQ9M52rNOAuekOtEAEWHQor8cimYrfzBfPD/lL/oEaQO8WyoCUKy7sVASNE9QVdGjDViBp43oajRbdLwhm/BjkvNYjM8MPpuG0h2nChehdncL/GTHdYuChdd1JgTDZOonk7bOSQZKQQfJOoOf
+    properties :
+     x : 308
+     y : 241
+     width : 407
+     height : 248
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        type : 18
+        enabled : false
+  -
+    name : BTN_OPEN
+    identifier : 0x214b4f070070a898
+    internal_properties : CAAAAAgAAAAZoF54PRr+DyuZhpsy7f5miMXkOlC4uT/SoKWwDOOWICki5WI/wN2Tohp7NOCK6/trrKp8jpetZa0+eonDSSDxZ8GFSeLTCASNX2Y6yYRT1bmMD36Yaj54phNCkCUUJGcX24b7faoQNb6W341gmRJqlDS3eRAl0t6vb/rByQ/5hvFyGIMU/Aq+yWhwpTzRlWDfOHIGfNca3yR0cZmbkIRhfgYee8Uy7YCQod65YqNkEQb4DRXFSJqlCi4f6r9XLcp9kzFh56rkuV2pvmjlVgHOWbQfNQkJQovKP1NGLb5v+n7ARmrKnkat1jBfLn1/m57c/DHF473WMpnfUph+wGLZ8YCZDgf3ptTQU5K7QAZKsbqsboFN9wS1MbfoMct3mq2NxEZdIZ+4K7yRLb/qoqpU4DywwvMp/MoLhXYPj//om4chRz89fUCXumSZ1YDwIvZjW/oXxAD+a1esJ0nd8Hg6HbMdaT/AHZjxIlowdEhQ6acr7NwsJJ2MHKXOdXVQGGfMoeJ0XyugR+wMoHtsvuBxpjGzNAgptS6iht6dDHqpfbasKe3KnLILyYD+wlBt8J/3JVLDxUlj9H246LlqrsqXyfMn472wPoMr9IOifMLR4ogFKSjkMBnRYMZr1CrouHjZ3CILW1biB0YMAb8lJPk23qGooQxn9bIUUS0/4vD/+sHjeqkSGnOiSDiGNKvwKYd4qXQy5avZob45qDwvN2wEaF4pM3CdvMCLQedQN0BXMlu6YNaOhIcqztz2+cvKCK0dC2DoUIjjTts55jZUvIsycnWPkkS56m1zELYGFCwJn5pVED7ulECzrIXUEGPEvtWdg9068JjuQUl51d7xbvyXGs6mUiCe0nwkCmTF7/Fw5CJtYFPOq+GCwQctZE54n9HyPAWUvbPmJQxRr0PyB4NjQtJkIx+HJdbD0D8x/xGoIaNQuHhOGtUbDOM7CE6m4lowckF06SI2aho7Gm8xY+2jOwBODCwIl/ZwQ623ZdT21T97/VemzC2nE0NUFPCp4Ko/HKugqmZt6xsPEDTW4V81rt/r3MZeUc3WhMhqf1kFJ3osPGDNkJ8GV8KdMcRV5VyZ/dzhY17AQs6hZOW98fsCBdxwWVvZ4se2VhYCeSMGxpr2z4GWUfXOljYhMAGS3zByiIab0ZFwWhA8gM+Dw1d9HFR9qyT9KPrarY8AbmJGqp3eETkyiKz763ayFZ2i0im23QHT9fpI0l5WCs/V66L6yqm5DCpt4dNMcYYQrzD7hn3JF/0KUVZdYUe21stIBNm38l/kZU8WeL7wnrBMdJ/1A+4ENnttqZ+meFJqEkMR9SUTDIqmkwZ0B8xZc0Zk2RCk1E7SXylLuOoezwJWHZherKVKd4bd
+    properties :
+     x : 70
+     y : 679
+     width : 36
+     height : 36
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Ouvre un sélecteur de fichier spécialisé pour les fichiers multimédia
+         URISélecteur( procedure( Succès est booléen, Sélection est URI ) { 
+         	
+         	// Si on a bien sélectionné un fichier
+         	si Succès ALORS
+         		
+         		// Fichier local
+         		si Sélection.Schéma = "file" ALORS
+         			
+         			// Charge le fichier
+         			ChargeFichier( Sélection.Chemin[[ 2 a ]] )
+         		FIN		
+         	FIN
+         
+         }, uriAudio + uriVidéo, uriOuverture )
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_LOGO
+    identifier : 0x214c4f4203118e93
+    internal_properties : CAAAAAgAAACp7gzLOG9aCAbtVOVA7Xqo1PeZVQ3TQQAxibYAnr3VNW98p50y6Bslgkq9wQlS5Mk903pHDEsNstVmlT//IrwNR0ioNevEN0EUMYbsYUUbQ6BLtNJ3PLCSOMRRSr2vspvXWdpEQ9ZlJEDQtPMJ/xxFR+aX9/K9dV4c4KOwpPvx4RXTloZDYM90NXpaLSOCYoDaA9jDOq6wiV/T+gL7sH4fBybhnk0Z1Qj9f7u6BXQrxI9oLsM8d1Bqro6USWPvKokhK70JvH5cgr5BBw2MZaWOpD1Yd9waA7Df3r692F/anq4GBJPmJ9Lo1wQDJWfKpuScEVVY5wnY/XpaGolfUZiFLYqMH7rJBNnZ7dqwU1yH4wg2RuTwxUqsh9jsHf/1l2lMedEghEpjpAeylBE6AdDIKHggeCYAigZ7uJ+GWTwJm0XLw/17Fjr7oVYAW3QTuRN52z2+LYMdfsOxu6N6JzAEdRrWeQRAqtfMNQS6Dfiwp/PDR75Gon4ZQdAk4oP4W8YQJeiXXXZTKPicnFved2A06DeyW0QfSImWMT/c/aykBIMgjcJNEuHi5/A07gKjLGbpkOq574Zypr9AiA==
+    properties :
+     x : 368
+     y : 221
+     width : 286
+     height : 207
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_INFO
+    identifier : 0x214c4ff803645738
+    internal_properties : CAAAAAgAAAAddubZQtZvkzyjTqAkFAylnCZrWm4X0e8zn1s3eY3j+PGhcn3l5Btx8KFG2j1RF0PqFliPQv80wiTPz8CZTS+JPpIB4ZHyVcLoCRd6Sj0TNvQFc7jes5k9kasjaYOq3r2WdGWL/0tYVHUZTjOkC84AZsBUrROspAOx2LfqzaHjRnG5zx65VQVX8afpnO2eCQfjUg0l7iJeQC1TyyEcfR2mXlCjEh9CbuULpefqiBCDR/G05ks/byHooR4JFQpQsTjXdoZOVKtQx2mccZyl6A7PZqaWpEzddu++poT69uYXthAssl9jQQOnLPEz3SXAXLZ6o8lYeCiLLYCU4dDy0IIdpLOLL+5ILuW/0EYNgvW7U1vm8zSUR3Nlz2Z8HCou5wr6gdeYoje43jPme/KVRLDItrv2z6K1lpAZF7Q/j+LN62kFRCejJO+OwzANkcMXrs83cy8DxPWNuy8kGZ7fgXho2s9r8/VgLi1UWTUVtgxkQHmvk5zcfBSpAxR4O9H95jYebOC+Q6KxstIJDJtiB/qMyukE1xGupVPp4h9p1+HA+TxxlMcThZVKzQSfOLBlxlRmEvNopJEXviRizBzE14PMpkY9iMQE7of1JwIzW8ka+xGWqoKf/IR041W56HdrLCPLwGWgQrqPfiSR5oF2SzplVBsc0ytYu2SuWwS/u1rSckbEuxM2WgwR5ox3ltU+Wibsmpxumg==
+    properties :
+     x : 311
+     y : 430
+     width : 400
+     height : 55
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+      constant PLAN_PRINCIPAL = 0
+      
+      PleinEcran est un booléen = ( MaFenêtre.Taille() = TailleMaxi )
+      
+      // Démarre le timer de suivi des activités de la souris
+      TimerSensibilitéOutilsLecture
+      
+      // Réorganise l'affichage en fonction de la taille de la fenêtre à son ouverture
+      RéorganiseAffichage()
+      
+      // Autorise le DND sur la fenêtre
+      ExplorerAccepte( vrai )
+      
+      // Désactive le bouton PLAY
+      DésactiveElément( BTN_PLAY )
+      
+      // Volume initial
+      MultimédiaVolume( MM_PLAYER, Muet ? 0 sinon Volume )
+      BTN_VOLUME.Bulle = "Volume : [%Volume%]%"
+   -
+     code : |1-
+      
+     type : 34
+   -
+     code : |1-
+      
+     type : 234
+   -
+     code : |1-
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 65541
+   -
+     code : |1-
+      
+      sFichier est une chaine = ExplorerRécupère( _eve.wParam, 1 )
+      
+      // Charge le fichier
+      ChargeFichier( sFichier )
+     type : 66099
+  procedures :
+   -
+     name : TimerSensibilitéOutilsLecture
+     internal_properties : CAAAAAgAAACJ5Yf0kymR89tk5ezgoDALC/9raMfZzAZTFyXfbe77/JdRVBU9nzVA2ZW6xNcgwBqne2bdd/m74n7+KZRI7fcbO5fB/4lJ12oXzZ1NteykSRjBQBct
+     procedure_id : 1245767938655763854
+     type_code : 14
+     code : |1-
+      // Résumé : Suit l'activité de la souris pour afficher les outils de lecture en plein écran
+      // Syntaxe :
+      //TimerSensibilitéOutilsLecture ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Procédure automatique :
+      // La procédure est exécutée manuellement, lors d'un appel dans le code
+      // Elle sera répétée en boucle, en attendant 50 centièmes de seconde entre chaque appel
+      // Un nouveau timer est créé pour chaque appel à la procédure
+      // 
+      
+      procédure TimerSensibilitéOutilsLecture()
+      
+      	soit CPos 	= CurseurPos( cpFenêtre )
+      	soit Y 		= PoidsFort( CPos )
+      	
+      	// La souris survole les outils de lecture ?
+      	si Y > IMG_FOND_BARRE_LECTURE.Y ALORS
+      		
+      		// Stoppe le timer qui cache les outils
+      		FinAutomatismeProcédure( LectureCacheOutils )
+      		
+      		// Si les outils ne sont pas visibles
+      		si GR_LECTURE.Visible = faux ALORS
+      			
+      			// Rend les outils visibles
+      			GR_LECTURE.Visible = vrai
+      	
+      			// Relance le timer qui cache les outils
+      			LectureCacheOutils()
+      		FIN		
+      	FIN
+     type : 458752
+   -
+     name : LectureCacheOutils
+     internal_properties : CAAAAAgAAAAADZh/4pXzA9Ipy+3Bb8okDW0AI5z+/M/QWy9HeiKnUS2mNblggFpgqnv43yMT0xf4z+OVBeR/RNELVw2vECNsKmKWCKpnHnE9aPAZEpwXyOsHBQgxcfEA
+     procedure_id : 1245768625850560517
+     type_code : 14
+     code : |1-
+      // Résumé : Cache les outils de lecture avec un délai
+      // Syntaxe :
+      //LectureCacheOutils ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Procédure automatique :
+      // La procédure est exécutée manuellement, lors d'un appel dans le code, avec un différé de 3 secondes
+      // 
+      
+      procédure LectureCacheOutils()
+      
+      	// Cache les outils de lecture
+      	GR_LECTURE.Visible = faux		
+     type : 458752
+   -
+     name : DésactiveElément
+     procedure_id : 1245778358246555799
+     type_code : 14
+     code : |1+
+      // Résumé : Donne l'apparence désactivé à un champ
+      // Syntaxe :
+      //DésactiveElément (<oChamp> est champ)
+      //
+      // Paramètres :
+      //	oChamp (champ) : Champ concerné
+      // Valeur de retour :
+      // 	Aucune
+      //
+      procédure DésactiveElément( oChamp est un champ )
+      	
+      	oChamp.Etat		= Inactif
+      	oChamp.Opacité	= 20
+     type : 458752
+   -
+     name : ActiveElément
+     procedure_id : 1245778517160383548
+     type_code : 14
+     code : |1+
+      // Résumé : Donne l'apparence désactivé à un champ
+      // Syntaxe :
+      //ActiveElément (<oChamp> est champ)
+      //
+      // Paramètres :
+      //	oChamp (champ) : Champ concerné
+      // Valeur de retour :
+      // 	Aucune
+      //
+      procédure ActiveElément( oChamp est un champ )
+      	
+      	oChamp.Etat		= actif
+      	oChamp.Opacité	= 100
+     type : 458752
+   -
+     name : ChargeFichier
+     internal_properties : CAAAAAgAAACPRk5rc30yFYTsDWfY2nudwNliJi0iZnM/tcvVE3tB+razWXaJgDeAyoZ2/+2YNSzHiy07eLmmy8gVBSLju5N8B9tb305FA5UTDMTlH6kYX10KvxkLjWJ3KwAOtUrutbMtR1LN/GAJGPiqtZiheqXDXhyyjrjBas94Bc+OfykAAw==
+     procedure_id : 1245782270961887726
+     type_code : 14
+     code : |1-
+      // Résumé : Charge le fichier spécifié
+      // Syntaxe :
+      //ChargeFichier (<sFichier> est chaîne)
+      //
+      // Paramètres :
+      //	sFichier (chaîne ANSI) : Chemin complet du fichier
+      // Valeur de retour :
+      // 	Aucune
+      //
+      procédure ChargeFichier( sFichier est une chaine )
+      
+      	// Le fichier n'existe pas
+        	si fFichierExiste( sFichier ) = faux ALORS
+        		ToastAffiche( "Le fichier n'existe plus", toastCourt, cvMilieu, chCentre )
+        		retour
+        	FIN
+        	
+        	// Charge les 4 premiers octets
+        	bufHeader est un buffer = fChargeBuffer( sFichier, 0, 12 )
+        	bAudio est un booléen
+        	
+        	selon vrai
+      
+      		// AUDIO
+        		CAS bufHeader[ 1 sur 3 ] = [ 0x49, 0x44, 0x33 ], ...																// MP3 + ID3v2
+        			bufHeader[ 1 sur 2 ] = [ 0xff, 0xfb ], ...																		// MP3
+        			bufHeader[ 1 sur 2 ] = [ 0xff, 0xf3 ], ...																		// MP3 + ID3v1
+        			bufHeader[ 1 sur 2 ] = [ 0xff, 0xf2 ], ...																		// MP3 + ID3v1  			
+        			
+        			bufHeader[ 1 sur 4 ] = [ 0x52, 0x49, 0x46, 0x46 ] _ET_ bufHeader[ 9 SUR 4 ] = [ 0x57, 0x41, 0x56, 0x45 ], ...	// WAV  			
+        			bufHeader[ 1 sur 4 ] = [ 0x4f, 0x67, 0x67, 0x53 ], ...															// OGG, OGA
+        			bufHeader[ 1 sur 8 ] = [ 0x30, 0x26, 0xb2, 0x75, 0x8e, 0x66, 0xcf, 0x11 ], ...									// ASF, WMA
+        			bufHeader[ 1 sur 8 ] = [ 0xa6, 0xd9, 0x00, 0xaa, 0x00, 0x62, 0xce, 0x6c ], ...									// ASF, WMA
+        			bufHeader[ 1 sur 4 ] = [ 0x66, 0x4c, 0x61, 0x43 ]																// FLAC
+        		
+        			bAudio = vrai  			  					
+      
+      		// Les octets d'entête n'ont pas permis de savoir : on prend l'extension
+        		cas minuscule( fExtraitChemin( sFichier, fExtension )[[ 2 a ]] ) dans ( "wav", "mp3", "ogg", "oga", "asf", "wma", "flac" )
+        			
+        			bAudio = Vrai
+        		
+        		// VIDEO
+        		cas bufHeader[ 1 sur 4 ] = [ 0x52, 0x49, 0x46, 0x46 ] _et_ bufHeader[ 9 sur 4 ] = [ 0x41, 0x56, 0x49, 0x20 ], ...	// AVI
+        			bufHeader[ 1 sur 4 ] = [ 0x1a, 0x45, 0xdf, 0xa3 ], ...															// MKV, WEBM
+        			bufHeader[ 1 ] 		 = [ 0x47 ] _et_ bufHeader[ 0xbc ] = [ 0x47 ], ...											// MPG, MPEG, TS
+        			bufHeader[ 1 sur 4 ] = [ 0x00, 0x00, 0x01, 0xb3 ], ...															// MPG, MPEG
+        			bufHeader[ 1 sur 4 ] = [ 0x00, 0x00, 0x01, 0xba ], ...															// MPG, MPEG, VOB, M2P
+        			bufHeader[ 1 sur 8 ] = [ 0x66, 0x74, 0x79, 0x70, 0x69, 0x73, 0x6f, 0x6d ], ...									// MP4
+        			bufHeader[ 1 sur 3 ] = [ 0x00, 0x00, 0x00 ] _et_ bufHeader[ 5 sur 4 ] = [ 0x66, 0x74, 0x79, 0x70 ], ...			// MP4
+        			bufHeader[ 5 sur 4 ] = [ 0x66, 0x74, 0x79, 0x70 ]	_et_ bufHeader[ 9 sur 4 ] = [ 0x71, 0x74, 0x20, 0x20 ]		// MOV
+        			  			
+        			bAudio = faux
+        		
+        		// Les octets d'entête n'ont pas permis de savoir : on prend l'extension
+        		cas minuscule( fExtraitChemin( sFichier, fExtension )[[ 2 a ]] ) dans ( "avi", "mkv", "mpg", "mpeg", "vob", "m2p", "mp4", "webm", "mov", "ts" )
+      
+      			bAudio = Faux
+      
+      		autres cas
+      			ToastAffiche( "Format de fichier non reconnu", toastCourt, cvMilieu, chCentre )  			
+      			retour
+        			
+        	FIN
+        	
+        	// Arrête l'éventuelle lecture en cours
+        	LectureArrête()
+        			
+      	// Charge le fichier
+      	MultimédiaOuvre( MM_PLAYER, sFichier )
+      	si ErreurDétectée ALORS
+      		erreur( "Impossible d'ouvrir le fichier :", sFichier, "", erreurinfo )
+      		retour
+      	fin
+      	
+      	// Initialise la lecture
+      	LectureInitialise( sFichier, bAudio ) 			
+     type : 458752
+   -
+     name : LectureSuiviPositionMédia
+     internal_properties : CAAAAAgAAADs56M1B119S7SoHQJX06KZajeGv4mcc/KfRR1pfceHX3u6BfoKshQcFOnOEozEQfQiUGwcJJ4YnJmeQtYMJb80ZNmokrJW/EMJi2225lZF/rm9
+     procedure_id : 1245796139411500354
+     type_code : 14
+     code : |1-
+      // Résumé : Timer de suivi de la position dans le média pendant la lecture
+      // Syntaxe :
+      //LectureSuiviPositionMédia ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Procédure automatique :
+      // La procédure est exécutée manuellement, lors d'un appel dans le code
+      // Elle sera répétée en boucle, en attendant 1 centièmes de seconde entre chaque appel
+      // Un nouveau timer est créé pour chaque appel à la procédure
+      // 
+      
+      procédure LectureSuiviPositionMédia()
+      
+      	// Lit la position actuelle de lecture
+      	nPosition est un entier sans signe = MultimédiaPosition( MM_PLAYER )
+      	
+      	duDuréeEcoulée est une duree
+      	duDuréeEcoulée.EnMillisecondes = nPosition
+      		
+      	// Affiche la durée écoulée et la durée restante
+      	AfficheDurée( LIB_TEMPS_ECOULE, duDuréeEcoulée )
+      	AfficheDurée( LIB_TEMPS_RESTANT, MM_PLAYER.DuréeTotale )
+      	
+      	// Mise à jour de la position	
+      	POT_DUREE	= nPosition
+      	JAUGE_DUREE	= nPosition
+     type : 458752
+   -
+     name : RéorganiseAffichage
+     internal_properties : CAAAAAgAAAAPoijBvx12/mYzWwS3adkULoWFxvd9cMMqvw0nNV8Qz/qp5aVjrJeZDn7MA6aSAV5Rxg9amdAqdTr0L6uGctSoUsTBYHPG2DgKTjCiWcBToIE2U7XV4Y5hSfs78jpdwE5ciVKZHfLnO4244/5S/xqif6UTrU8DiIUmc0/eoUZiGV1V+XdgCkqpHms4QuqdxfvLm/Yp8tF/WPBj34o1vWj7
+     procedure_id : 1246056033321370424
+     type_code : 14
+     code : |1-
+      // Résumé : Réorganise l'affichage
+      // Syntaxe :
+      // RéorganiseAffichage ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      procédure RéorganiseAffichage()
+      
+      	si PleinEcran ALORS
+      		
+      		// Cache le bouton 'Plein écran'
+      		BTN_PLEIN_ECRAN.Plan			= PLAN_CACHE
+      		
+      		// Réaffiche le bouton de réduction
+      		BTN_REDUIRE.Plan				= PLAN_PRINCIPAL
+      						
+      		// Cache le fond des outils de lecture
+      		IMG_FOND_BARRE_LECTURE.Plan		= PLAN_CACHE
+      		
+      		// Démarre le timer de suivi des activités de la souris
+      		TimerSensibilitéOutilsLecture()
+      		
+      		// Relance le timer qui cache les outils
+      		LectureCacheOutils()
+      		
+      	sinon
+      		
+      		// Arrête le timer de suivi des activités de la souris
+      		FinAutomatismeProcédure( TimerSensibilitéOutilsLecture )
+      		FinAutomatismeProcédure( LectureCacheOutils )
+      		
+      		// Cache le bouton 
+      		BTN_REDUIRE.Plan				= PLAN_CACHE
+      		
+      		// Réaffiche le bouton 'Plein écran'
+      		BTN_PLEIN_ECRAN.Plan			= PLAN_PRINCIPAL
+      				
+      		// Réaffiche le fond des outils de lecture
+      		IMG_FOND_BARRE_LECTURE.Plan		= PLAN_PRINCIPAL
+      		
+      		// Réaffiche les outils de lecture
+      		GR_LECTURE.Visible				= Vrai
+      		
+      	FIN
+      	
+      	// Si on est en muet
+      	SI Muet ALORS
+      		
+      		// Indique le "mute"
+      		BTN_VOLUME.Plan	= FEN_PRINCIPALE.PLAN_CACHE
+      		BTN_MUTE.Plan	= FEN_PRINCIPALE.PLAN_PRINCIPAL
+      		
+      	SINON
+      		
+      		// 
+      		BTN_VOLUME.Plan	= PLAN_PRINCIPAL
+      		BTN_MUTE.Plan	= PLAN_CACHE
+      	FIN
+     type : 458752
+   -
+     name : AfficheDurée
+     internal_properties : CAAAAAgAAACvib71eb2fMnDLcAzh1TLpUkd/zG/43Fmn1Sb0rJGJkdcaCFwt1uVtdnXzCog2W8TNeNiYhr4j9wNSWQrb9ZHx+MzVAHwtNRelz7txuX9LN9hbWTLxFYMHdi/eiumxje++uZZDYCYS7uDyE0g=
+     procedure_id : 1246129253955691972
+     type_code : 14
+     code : |1-
+      // Résumé : Affiche la durée formattée dans le libellé spécifié
+      // Syntaxe :
+      //AfficheDurée (<oLibellé> est champ, <duDurée> est durée)
+      //
+      // Paramètres :
+      //	Libellé (champ) : Libellé à utiliser
+      //	duDurée (durée) : Durée à afficher
+      // Valeur de retour :
+      // 	Aucune
+      //
+      procédure AfficheDurée( Libellé est une champ, duDurée est une duree )
+      
+      	sDurée est une chaine
+      	sDurée = duDurée.VersChaîne( "HH:MM:SS" )
+      
+      	// Si la durée a changé
+      	si sDurée <> Libellé ALORS
+      		
+      		// Change la durée affichée
+      		Libellé = sDurée		
+      	FIN
+     type : 458752
+   -
+     name : LectureTermine
+     procedure_id : 1246129743582011336
+     type_code : 14
+     code : |1-
+      // Résumé : Termine la lecture
+      // Syntaxe :
+      // LectureTermine ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      procédure LectureTermine()
+      
+      	// Fin de la lecture
+      	MM_PLAYER.LectureEnCours	= Faux
+      	MM_PLAYER.LectureTerminée	= vrai
+      	
+      	// Cache le bouton lecture
+      	BTN_PLAY.Plan				= PLAN_PRINCIPAL
+      	BTN_PAUSE.Plan				= PLAN_CACHE
+      	IMG_ANIM_MUSIQUE.Animation	= faux
+      	
+      	FinAutomatismeProcédure( LectureSuiviPositionMédia )
+      	POT_DUREE				= POT_DUREE.BorneMax
+      	JAUGE_DUREE				= JAUGE_DUREE.BorneMax
+      
+      	// Affiche la durée restante et la durée écoulée
+      	AfficheDurée( LIB_TEMPS_ECOULE, MM_PLAYER.DuréeTotale )
+      	AfficheDurée( LIB_TEMPS_RESTANT, 0 )
+     type : 458752
+   -
+     name : LectureInitialise
+     procedure_id : 1246130512381271315
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //LectureInitialise (<sFichier> est chaîne, <bFormatAudio> est booléen)
+      //
+      // Paramètres :
+      //	sFichier (chaîne ANSI) : <indiquez ici le rôle de sFichier>
+      //	bFormatAudio (booléen) : <indiquez ici le rôle de bFormatAudio>
+      // Valeur de retour :
+      // 	Aucune
+      //
+      procédure LectureInitialise( sFichier est une chaine, bFormatAudio est un booléen )
+      
+      	// Obtient la durée totale de la vidéo
+      	nDurée est un entier sans signe = MultimédiaDurée( MM_PLAYER )
+      	
+      	// Mémorise la durée totale
+      	MM_PLAYER.DuréeTotale.EnMillisecondes	= nDurée
+      	MM_PLAYER.FormatAudio					= bFormatAudio
+      	
+      	// Jauge de lecture
+      	POT_DUREE.BorneMax						= nDurée
+      	JAUGE_DUREE.BorneMax					= nDurée  			
+      	POT_DUREE.Valeur						= 0
+      	JAUGE_DUREE.Valeur						= 0
+      	
+      	LIB_LOGO.Plan				= PLAN_CACHE
+      	LIB_INFO.Plan				= PLAN_CACHE
+      	BTN_PLAY.Plan				= PLAN_PRINCIPAL
+      	BTN_PAUSE.Plan				= PLAN_CACHE
+      	POT_DUREE.Plan				= PLAN_PRINCIPAL
+      	JAUGE_DUREE.Plan			= PLAN_PRINCIPAL
+      	MM_PLAYER.Plan				= bFormatAudio ? PLAN_CACHE SINON PLAN_PRINCIPAL
+      	IMG_ANIM_MUSIQUE.Plan		= bFormatAudio ? PLAN_PRINCIPAL SINON PLAN_CACHE
+      	IMG_ANIM_MUSIQUE.Animation	= faux
+      	
+      	// Affiche la durée restante et la durée écoulée
+      	AfficheDurée( LIB_TEMPS_ECOULE, 0 )
+      	AfficheDurée( LIB_TEMPS_RESTANT, MM_PLAYER.DuréeTotale )
+      	
+      	// Nom de la vidéo
+      	LIB_NOM_MEDIA		= fExtraitChemin( sFichier, fFichier )
+      	LIB_NOM_MEDIA.Plan	= PLAN_PRINCIPAL
+      	mafenetre.titre		= "WDMultimedia - " + LIB_NOM_MEDIA
+      	
+      	// Cadrage du nom
+      	LIB_NOM_MEDIA.CadrageHorizontal = bFormatAudio ? chCentre SINON chGauche
+      	LIB_NOM_MEDIA.Animation			= bFormatAudio
+      	
+      	// Active la lecture
+      	ActiveElément( BTN_PLAY )
+      	BTN_PLAY.ExécuteTraitement( trtClic )
+     type : 458752
+   -
+     name : LectureArrête
+     procedure_id : 1246184198295034616
+     type_code : 14
+     code : |1-
+      // Résumé : Arrête une lecture en cours
+      // Syntaxe :
+      // LectureArrête ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      procédure LectureArrête()
+      
+      	// Si la lecture est en cours
+      	SI MM_PLAYER.LectureEnCours ALORS
+      		
+      		// Arrête la lecture
+      		MultimédiaArrêt( MM_PLAYER )
+      		
+      		// Décharge la vidéo
+      		MultimédiaFerme( MM_PLAYER )
+      		
+      	FIN
+      	
+      	// Termine
+      	LectureTermine()
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x10ded81800031b4e
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

@@ -1,0 +1,284 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_POP_VOLUME
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_POP_VOLUME
+ identifier : 0x214b46f8206c2bed
+ internal_properties : CAAAAAgAAACBzNcoTlbVeB+HBQWgnww1gqIWJhDwhCqMEOAi++0T7Njb4rMtu1HN8qeikvksYlAVJ4oci1Go+aL2AlrWAKzCbZ57c0a/nl1MG0E8PbBSMcBS7Va/8GBGTI14LabAK7Bv/qe6sTbQlGA2v/W2NacosuOUAjRtZ1Oyu33FeDH2Adl+kzExLmmI/Cb7j9ZUvkLeTIT9TD0encCnHtJQCSlk9GqsyzPzOQCC9XSZJvnvusiX/Zsphhvg0xpJaTrq/G80eOMjtMPLaH1StFaY2P9eefQYq2QBcKsWeGKdtRU0EUIUaGxPELNwu3aeXML00MhWeIyez9cEqqGSHqNByJdyXLxml5GKBjqI/5JvSgGUqxGpTCr5JSiTLkRcvd7G2bjeQZWkrXB0J4WHuEBoy6R5ztSN6/ojZ3MOhuuvOrKRWBmeUQ8VPH3yfpSJb5vJ2ZaM6YirZ+cKNcm9i0Xz/yX5kVO9WKr4sY3qoHMC+xQqQs2JNWA4LdRuoAto/LTvXkjLh7u7m8F6QsicNHh+6JUVQKIBDixgE+5jn2ORTx9WZuO1ZwuzqUJTphMT+/0DclaO0c+Fb2nj0dHL5j8H1RQKxOhkcXuFctw4W1B2iM/KKwKntfyYpmGIlc23/UKQPd9/0ySEig45H3/5h16VjZek1u2P2z+pRuGLE0tmbTFuKEpr3SQ/7XHEMbo9t90sLWkcKd4CfJpG1T/4n1OSBDbMQWJ0XAM3oe5K6mBvMDc2RLFZNZ2RU3RM1I6Y1vkukAoWElS1GIHp1xo+bPcwTxwAk6b+PqTJXtL9GbIM/KAMVV7KfKIYPqndUfm2THCvY/02WG+ylhZvjs9vU9n4aWhATqk+Fh0t9pDDmPQYFSdCkCZrOj5UkUfsEWsDfaRKr5Kx2//+A6dL+NmG3EtFnx5AEofdAaWvrM7TpaNleUXNofKMVdmp5cyzXRl0W+HxDAyFKmv0cc1jXxfYs86yE4KltHOvQqPKqPg96Q==
+ properties :
+  width : 324
+  height : 84
+  widthClient : 318
+  heightClient : 78
+ controls :
+  -
+    name : BTN_VOLUME
+    identifier : 0x214b471d2072bb5b
+    internal_properties : CAAAAAgAAABN/2xWkcVYKokaHtrq0Oo86L4TOLelFg0L4HzXkaR+sg6fS130E/dy5fAIWgDFlSLsVanQ4xu4+ajc2QqLyKtpnbjKargmHRWuJceiSHPVrLwhSnKI1lk7h7ubjNyE4abfu9yqZjNDB6a4glnbm/xfQPb9tE9dpUujh50g6utEcL7juR74Ux1db4FQvlYoik42V3Jjv7W/DwA/FTtn2EwGe/CcMXLHJJzzFlJO+mxj14b2khpKcopDGcAluGJp7YYDWTe141sdHSEiXdcKqYJ294kehwr3QENEwxkmtQtDArqwBVP4+BujWAENM19ymhLWC4ZhK/0WkjcmBZHA6anKQuEXHBAiEDV6QGW1Q+omm4fZXY7+jgFw2BbYrFwKdLW8L9P24oHybxeaA56M/1B0W2vIbZKZ/2NVIFciEimYvy3bRWLCGbk3QjC7WSDJDJIwKnyYuXwGs1mleL1Bh7AsrriqnXehyCle0NFfFc9MA3qUDFMofwfaXzsZHaQ1SJ1pCP6XuRrWEBzOIUwi5op9RmZMtsekHDiXWQergAdLS5tXiOIcDKAsp/cB+KXZTHAfym35wrAU+ErHM/JltMYWRGhzMtW29JcC7bK0AKw8/v5TvX0tmyfE/toNXzx8Cai0AmcvAfm7KpungsMvd6/gSednUCKBEqe+6bCaV16qLtQvj/al/u2DWFhdVtvgH+OaNTGqtz8uxeO+meisEkXPiGmSW6KYflWGYtfYvND1C2iv2o+W6AgaG/huWdi8muT7tUSOR0GBIc+Bf8Bm6rfNyC/7+rulTdd2lJ07EkmikW7KKoHANTy619dQp1KrNSJTnrcYQynnq3TXm8WjjV7Em2+9Ip0t0o3s354jfb9zsMQTZhD3i4BA7mUY99pipsUXqMYaQuB61k0z5RGWgRqIiCAr+hexQLdmUX79G8iaMNHeb+KAlWgfoql06Gmp8htA4CfzD6imgP+z7revyJ/059Fr4Vm+CuqzlacTdWShC8+UuXItrqd22lbq0z95Q1YoJ7NtZm1f+kuEaOl99nXavSmiFDDrhrWaI5zausFCl8vel9KeawEE20sq9hjjwktX/aOTXMiRNjxDrpuNWMNw7tiAwsE8iPe7CKGxrN6nAPPpTb4/tiMu5yIl1jE3CF4JysMGQnSPf53N76sDiPGadyMcSTvkwlVCB2RlMhtoB7mgm9Q2n3fh+GLL5cGNkbirjPluRTxm0MfkO4kgLlwcb9too8en6rvXXUFa+ILvwEJ7YHcVOOFPVM5RtTdUnp7QlUnNVJWbhXqdDDJW
+    properties :
+     x : 16
+     y : 21
+     width : 36
+     height : 36
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Inverse la position muet
+         muet = pas Muet
+         SauveParamètre( "Mute", Muet )
+         
+         // Si on passe en muet
+         si Muet alors 
+         	
+         	// RAZ le volume
+         	MultimédiaVolume( ChampMultimédia, 0 )
+         sinon
+         	
+         	// Restaure le volume (si volume à 0, on remet le volume à sa valeur par défaut)
+         	si Volume = 0 alors Volume = VOLUME_DEF
+         	POT_VOLUME.ChangeValeur( volume )
+         FIN
+         
+         // Si on est en muet
+         si muet alors
+         	
+         	// Indique le "mute"
+         	BTN_VOLUME.Libellé 				= FEN_PRINCIPALE.BTN_MUTE.Libellé	
+         	FEN_PRINCIPALE.BTN_VOLUME.plan	= FEN_PRINCIPALE.PLAN_CACHE
+         	FEN_PRINCIPALE.BTN_MUTE.plan 	= FEN_PRINCIPALE.plan_principal
+         
+         sinon
+         		
+         	// 
+         	BTN_VOLUME.Libellé 				= FEN_PRINCIPALE.BTN_VOLUME.Libellé	
+         	FEN_PRINCIPALE.BTN_VOLUME.plan	= FEN_PRINCIPALE.PLAN_PRINCIPAL
+         	FEN_PRINCIPALE.BTN_MUTE.plan 	= FEN_PRINCIPALE.PLAN_CACHE
+         FIN
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : POT_VOLUME
+    identifier : 0x214b4782209a45b4
+    internal_properties : CAAAAAgAAADEHnvw+Llm0Jf9UcuOmekdgi8ucsriuVUi5NEwrK3jn46LMj0eflvphV/1RL9nQzbSlnyDQJy5P+GmqHz3IKy8YvhJfAIY8Dj2N0r4dC+5C7lo8KDFVisAHSswD6bvbE/Kmi7H+G+aazXnnTuniFlXlNnuaAT6GivqqRf6jj1jJHSillsttVOeL7cUNUnSSU9aD6F9A94d0Y+YS4JZFWpUBDYvNnKJzItTbdaBGbDNYdRlJPAMxt5dGvqMlSQk2rrJCLljndL6wEMTUUtYViPAaTfaeXzwEtks4OczDj/ov/4TXpl1csi7fGVN8zkQxvYyt6yt3/boWetnPhOWCMFtznPaXYXTUriQWLY3VhfW+y5hgaFGywdBdTvjxLtFcZq0NTcZUd/0Hj5soRVr7MkUKptI29NyHZRhySycfJRqJ+4B5YORpHaaV/uj/XzjRwsP8QnboBzypNvxECns68gJ8COihP0/eUpDB/JJfO1sXi1XxDcKDYstbuxX007W0AX9hnO/8qneSmt5zihY4zJLpzj7myM+8PEbO14u2o5zqS++TT/K0aSkP4d6hgUy3HrEQGlmpuig33x1t5qIlTBtNnVeye1f5RPJNMiDmVC9Rw492tOJEHle1P7Za31oLSSewmPHyAmHyMwmwXVgV9FYoLt7fCa1SKWknrcOFi2OiyoHDGrlZEne0E+tm6GFJWdlWZ/pv5gQJATjB9MAjjU2HmHXLhV6sqSn2l/riCyFRlxok8olHM6EIkNLG78=
+    properties :
+     x : 64
+     y : 18
+     width : 191
+     height : 42
+    type : 12
+    code_elements :
+     type_code : 20
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABlT2Cr/xGwcsXGEyyIMyZPDQcm8F7b359tXCcK/GFJYafKyLz9ZkXddgXjOsh2KwTt2Ggoxt6Lr0u64dLjbQlp4CS9KIQlPQ+tNyP5QVdjr36UjUyNmMfWnSW+KUq+DjVE3KAOieZQUAaoWQI=
+        code : |1-
+         
+         // Mémorise
+         Volume = POT_VOLUME
+         SauveParamètre( "Volume", Volume )
+         
+         // Si on était en muet
+         si muet alors 
+         	
+         	// Annule le mode muet
+         	muet = faux
+         	
+         	// Restaure le libellé du bouton Volume
+         	BTN_VOLUME.Libellé = FEN_PRINCIPALE.BTN_VOLUME.Libellé
+         fin
+         
+         // Change le volume mutimédia 
+         MultimédiaVolume( ChampMultimédia, Volume )
+         
+         si Volume = 0 ALORS
+         	
+         	// On passe en muet
+         	muet = vrai
+         	BTN_VOLUME.Libellé = FEN_PRINCIPALE.BTN_mute.Libellé
+         FIN
+         
+         // Affichage
+         JAUGE_VOLUME = Volume
+         LIB_VOLUME	 = Volume
+         FEN_PRINCIPALE.BTN_VOLUME.Bulle = "Volume : [%Volume%]%"
+        type : 28
+      -
+        code : |1-
+         
+         // Si le bouton gauche de la souris est enfoncé
+         si ToucheEnfoncée( teBoutonG ) ALORS
+         	
+         	// Récupère la valeur sous le curseur de la souris
+         	soit VOL = sourisvaleur( SourisPosX( spChamp ) )
+         	
+         	// Force la valeur
+         	ChangeValeur( VOL )
+         FIN
+        type : 66048
+      -
+        code : |1+
+         
+         // Récupère la valeur sous le curseur de la souris
+         soit VOL = sourisvaleur( SourisPosX( spChamp ) )
+         
+         // Force la valeur
+         ChangeValeur( VOL )
+        type : 66049
+      -
+        code : |1-
+         
+        type : 66050
+     procedures :
+      -
+        name : SourisValeur
+        procedure_id : 1246168346748863924
+        type_code : 14
+        code : |1-
+         // Résumé : Renvoie la valeur du potentiomètre en fonction de la position de la souris sur le potentiomètre
+         // Syntaxe :
+         // SourisValeur ()
+         //
+         // Paramètres :
+         //	Aucun
+         // Valeur de retour :
+         // 	Aucune
+         //
+         procédure SourisValeur( X est un entier ) : entier
+         
+         	// Calcule la position en fonction de la coordonnée de la souris
+         	// On décale de la moitié de la largeur du bouton du potentiomètre : c'est son centre qui détermine la position
+         	// Idem, on n'utilise pas toute la largeur du potentiomètre, on enlève la largeur du bouton du potentiomètre.
+         	renvoyer ( X - CoordonnéeEditeurVersEcran( 12 ) ) * POT_VOLUME.BorneMax / ( POT_VOLUME.Largeur - CoordonnéeEditeurVersEcran( 24 ) )
+        type : 458752
+      -
+        name : ChangeValeur
+        procedure_id : 1246168346748929460
+        type_code : 14
+        code : |1+
+         // Résumé : Change la valeur du potentiomètre
+         // Syntaxe :
+         //ChangeValeur (<POS>)
+         //
+         // Paramètres :
+         // 	POS : Nouvelle position
+         // Valeur de retour :
+         // 	Aucune
+         //
+         procédure ChangeValeur( Pos )
+         
+         	// Si la valeur est différente de la position actuelle
+         	SI POT_VOLUME <> Pos ALORS
+         		
+         		// Change la position actuelle
+         		POT_VOLUME = Pos
+         		
+         		// Joue le traitement de modification
+         		POT_VOLUME.ExécuteTraitement( trtModification )	
+         	FIN
+        type : 458752
+     procedure_templates : []
+     property_templates : []
+  -
+    name : JAUGE_VOLUME
+    identifier : 0x214b4782209c45b4
+    internal_properties : CAAAAAgAAAAsckwaEiuxTR07kflvaEs8I9+CAHC8GnuxnlG3Ydj+I61/tAkphfVFTZFNiq/7Fm79lHil2pWSCwb/wcTxBpQ9C+mbFvOM/+qi7j02OBMbru9cqeb7XRu4yfOX3lyFEaZuCVFqTngpxBECwhzMa/lgzr5RI0OB7StV3iiquT4sa9RPalhub8umlyC30eYKDr1pVMgK1zXv5pep9mUVgKofPYCJtRvonXHWhDbN3s9wUZ7TGS0083ej231H+UoKvv/PvJ8zBZ1kAjSYYohKR2p8s1oRMrXH/vJ07zoMWGw5dpcHZCu7834DoU3GzHgzcq0qKLuuzvBHaPPk/DMjOdfPRlF/curT0ggqmH2HIPx1lSDsyoFZxp2TjZ0ikA14JBZhlJ+Bdd828ZsxpxOKoWfv+BynwnY0kQmFrwXt7V8ZUrMgEAAHmpYdulUvxS52tGT8RnmBVPLhVU3Vn+bZSrCwoQLHSdO1Y5m7z6PdYd8axnebN4lCtMYVdcAWdEY7DC6Y3xM9+gPZkXaC1Xd9KherYdI2SEKa1C1KZB5o7St4ROwN0wg57x7aGIMCVIp0IWGQtQVu8Q9O2VXbSueSOo+xSop+0wjAakIsmqD2hmxbVT8h7pJfjx3vzgf/1aiYmmHuFVqi9i5KsjyCAuhHCTFcvR0rfTocEg1+UPjXVyUhSoRMOLhNAIbWujPCmOiYFH3bmvXCd6unUY9e3dAaNJZHrIldC3f/cs7tmN1sNFBm3npQ79OTtmyn+GhWV1W76dgyPsz9+AhJFhKGdRXtWlvxeSQ+SicKvQe61r9HQomDeBSsiogEGsJO8h7L0+3leUa0Q+HMXrPrHTrIUcyGtcr7Qgof++3whOs4T9FIrlFLTdkd
+    properties :
+     x : 76
+     y : 38
+     width : 167
+     height : 3
+    type : 10
+    code_elements :
+     type_code : 17
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Jauge linéaire simple horizontale sans libellé
+        type : 14
+  -
+    name : LIB_VOLUME
+    identifier : 0x214b47a320a0c8b0
+    internal_properties : CAAAAAgAAADgSnvBMeUw1Aq4UG70DlbiFgeYa7RBHRjIZpy6iumKxd9NtAIMUgdAo/KmMOGjgg5zXw+w2fTp7100v9m2WBkb43I3vtCChEVjjcn+WkrhEVNQkqprcpJ5Booq3n9ogfcmYqNUXVXYse/OKc8meloUIyuimN9lzUiYnDWvJCBPUDfWjRe1T8Jt/W4GcuBceNQMLSLabGShnHu3VHzXOfMPtibVeiy6HOj9aMd9PGNoewfuG7f6yzsu8EYwrfMzF4yBOKHluUnxOJW568nN58CCdzS8oeygg8XuzqWmIWbhAiQxEYCvqiMWz9FImvg7h/GpVefytRfmlql5zXWdFs8RLdS/V6ezRX2OMDq16Iog3AmkSfJ/iAa91ynW0DuPCA3tuDsEbiWonEkc5egzBtLXK/W30Bk8G3vOCzV4lfixvH6vpZJNbIn+4OzOwrnqjH35hk4GB1EuueFRmQYUcRSEFxOCCOqZssLu/hd2CVIiI8rdaAZuAHsPdmGb1YldnhkXJLzH/zIelYgitHPsEsgggGLpglF/F0pN7QYRh1PaJ9Xa3ROMfVVyRS+SoUQQrlSC72M=
+    properties :
+     x : 259
+     y : 18
+     width : 44
+     height : 42
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      //--- Fenêtre Popup ---
+      // Pour accéder au champ ou à la combo popup qui a ouvert cette fenêtre
+      // vous pouvez utiliser : MonChampPopup
+      PROCEDURE MaFenêtre( ChampMultimédia est un champ )
+      
+      	POT_VOLUME.bornemax		= 100
+      	JAUGE_VOLUME.BorneMax	= 100
+      	
+      	// Si on est en muet
+      	SI Muet ALORS
+      		
+      		// Indique le "mute"
+      		BTN_VOLUME.Libellé				= FEN_PRINCIPALE.BTN_MUTE.Libellé	
+      		
+      		// Affichage
+      		POT_VOLUME		= Volume
+      		JAUGE_VOLUME	= Volume
+      		LIB_VOLUME		= Volume
+      		
+      	SINON
+      		
+      		// Affichage
+      		POT_VOLUMe.ChangeValeur( volume )
+      		
+      		// 
+      		BTN_VOLUME.Libellé				= FEN_PRINCIPALE.BTN_VOLUME.Libellé	
+      	FIN
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x114b46f3464c194f
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

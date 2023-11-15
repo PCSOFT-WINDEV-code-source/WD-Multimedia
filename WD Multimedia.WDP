@@ -1,0 +1,107 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Multimedia
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAADE54+egRPX61hSjoOsiBQntVJt8Nf6kS3AP6FBVFbQx1N/xbli6LaU1KTnMRj7Vpx/3OgfYJr6ZOnhOMiSsAw+0hewRcdUGU7T/i6TKe6dEDvnBNwhlu8fR9mOXSgaiiHVfHqWlYP4lSGSKbv1h58wlCRnIrs6oGn+131obgWnDpH3h4h8iDAFWT7fgzRBMCaCSzgt9J1B/IbHYdGFuIgu823NVNNcdHBmEqtA45++kshI6Zv3AHzDBCmuz8Qu+Znabye/s6XEpJqMTMjKrRoVbFnj/yVBiQUe9hSibSOaiBK/J7sxlnXrxu2KpFlTcqgYwf2IkqtvGx3MljqFytfWuFduDJ3FlAm7JGfIA3usx5BgEEEkFQ3W4DGvhQd1mQoxg4aQMZWkp+vgWMB3aZK2mnmWLDNvAYxafKuPvhGePw0d8NheTyMqrqrw0PvDp8xs6RYRVAkZa8eiBdKvoa2Xh1UDyMTxfDp9/ilvr29C45ILziXOPOqOWkP7vel0KXMPbxE0ySQvav8BNsDeJWLNbqLb+qmEkTCSHx+TIH7LQxfTbYDMwC2ksNojTzHxETTvkq/7pFhGBKrtkuS8ATmf+N4uXS1FGB2k6dE6W4FCcEXXoaIv/tlFkYFuj2AW8P37WOTivdY7fisKo2JRq07IcihEmH3GaVvfeQ0pMUU9q0ldvf5fGU0Glid/ij6pFjKapkFdiJO/SO5XhcvaI7ZdP8Bp4gEXujgh6uuRSZlFBEGOlWNwjbiomv1KuyaDQoFGWDY8ZnO6fo9c2/7Gvex/RSuRi1T+z/e3T/fva5y2EUFyHO/hr716wOzhLnw5iwAaC+TLOvS6npzg66ePYEVHYdW/tPU+XUj2cOtGnFTkN/X1okorHhAvS7FA3jbspol9r+nXc2ScDOU3gva5rOXAapqr9/8WBNgdn8sQ1wZEz0WDUpkauSOtbbh60ceX2G/ITNftZP3JRpmP8naRhz49f9eibnTvkc7rphTZl8zM869+M6C1/vo1yL8StKwhOMz0LT+Ztlxi7WB+vvZynuG6XYrtqzBTEz3nurnNQlMNbvIQH5wW4jw4qwpedAFTtMZ85CoZhF05JbCHZhYzBw59sWxfthJmOG4EEm1aqMWLwyxK5Wh3NX4dFZjrFbRlVWXPN6gKFrhsxvsuBdAHxd2LXT/Q6qTh5Uc8sSIJ1SH43IJ0t9LjqxYeu5yGE8BmgM6PCC6CL28lyXHN/zpJl1wqOMMVznka8K82F9PGuB5jK+0Imj2FDfmjg3EMAZPlQw7apdYHqXfCvNA/8WTr6JRKffwLm2F+ypkArIImPnuz9rokbKWgPxuj4VVFgWGh8KHu9Qt0JornXYH/Mys2D5F4CKTqxpX5LaL5/0fhRoh6dDJSIrEZ0HJiGDk4Jgx1Gy4RKID7iZiop+061ddiTZR3xIt+Q9HfFTgPOVnPxGLrPfoFn3iONyPOMLZrpP1p1XQbKVxEh2Sz7TiVqgiqaQSCPn4HoerPm+HHzAoSBKLvZ7s4Mz7911dVq9Rdt94G8pCC3niaiK44X27Zo6UPfxr/j4+ZBcl5+VEzqA1/c8mZ2O5pMlgZNyCVf3wnSL8MKhq6F66zcIlxTHMQbtNRVozm9VshYAtstgcqT8zNXE5EyCB3Gk/7J+jiEg0o8zaqMVAgLLpq8rQGcl9NNZ2ieBRc3tjfytuPVnsv2vExmY7Vr34LgTI+P3rRfJPllVjrG0I8s04bZX7CUquDtueBZmJF3R754Y5tBWzHnajEYdM8gBKLUewJfEhZWRZj2F9Rcco2Qspk7pEyDoXFbplS1mJ2K/b7Cp8DZ4OvvNwfjUpk6ne7xaBd1CtLuMWIsXApGgaxLLKB0rzOIflwYmtAklnOcL/+Ma+qAAQfm4m5XfY/pPgua2JAfBUqDdy62+ZDm0AkQGfw95s2XnbZIm8zrFDTroMUxT/HxyLKmDmkOjYWf4IUPhK6tRXga08EfkdhVeHmgA7EmRFx+eJxd2veEEr0xhGkJEFjNg5x23zOYEVw7wgI8AN+2/M/wlC73xI8BgnmzC+oou7TZUmXR28FxkFsaDhnKZgGWYcyhPK+dQeCFAaKMqE3Q6W6u8ZWsGKk7RqPBmiRGweXJW7Qo5iwCpNE8F+CO4KxbmzYQAeuuNGTGuhPFTvXA15apJYWOqU0kHuk7KuLC1OQK6ewS0GDKKA/EjwLcJNSQmJdLpXShebXpqKHu8sk/0zPvlKOz0LcyUgmevJe5IWp8lIAZj0UlpZh23D2i3Z68sSLaKQsriA8OSQZs5AF4+G/9znHGg3DcYKlIlAUmtKJ7i9w4mDRo3WEfJ/i/8LD/5bAXtYL1Bxu9aZCr8jxS3wZPBnMsiX/8P68lXj04iXHSg==
+ configurations :
+  -
+    name : Exécutable Windows 32 bits
+    internal_properties : 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
+    configuration_id : 4944542724817547570
+    type : 1
+    generation_name : WD Multimedia.exe
+    version :
+     major_version : 1
+     generation_version : 15
+     internal_generation_version : 16
+    language : 1
+ elements :
+  identifier : 0x40ded62a0004944e
+  elements :
+   -
+     name : FEN_PRINCIPALE
+     identifier : 0x40ded83000167853
+     internal_properties : CAAAAAgAAABDzXkV5uML/JQ8kHrG0Peo0dYMoD61k70xpffjYmIRZgJEZnexxz1Eph5pFjnRblXG
+     physical_name : .\FEN_PRINCIPALE.wdw
+     type : 2
+   -
+     name : FEN_POP_VOLUME
+     identifier : 0x414b46f8063c2bed
+     internal_properties : CAAAAAgAAAAXc3+jAH01Np5Gr1kwWTXRH7jaGroYwZiUkGefOMlN03mHACsO+FD231hCvka6RroCAg==
+     physical_name : .\FEN_POP_VOLUME.wdw
+     type : 2
+   -
+     name : PolicePerso
+     identifier : 0x41a6254e0091a199
+     internal_properties : CAAAAAgAAACA/vgkg/iw680Ux9Cfu1LgruONvY2uvEtKZOsylpvxJ91xyGk7hfkUkot1Q8M9xTuFjQ==
+     physical_name : .\PolicePerso.wdc
+     type : 4
+  other_elements :
+   -
+     physical_name : .\Fonts\Font Awesome 5 Free-Regular-400.otf
+   -
+     physical_name : .\Fonts\Font Awesome 5 Free-Solid-900.otf
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ data_directory : <RepExeOuRepDonneesCommun>
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAADK6/g+IcDa6UrqNkI0C3x2h/CDgO/i0B08czNFr2onCAb5QJQ5GK051NCvJQFFVkTWIPTJlHfmw5av8sed9dsZ9AjYgypuQcii
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABpDxaVI527qxb8O+7g1rHdWbKsaPElXMYUuSphhVxLdd23VFKJ7v1NTArcKFFXrUYRejyLhpE8ZOnoeqyWCowDgzDk9TjH7kPYZDQxXS/RsH8jmGyiWJTadk60lHsJI06FemFa4jgevNDs4lgbljdQnrElH6d0hN+i6EYjTi0fq5/ABt7u7ivN+nNugjpf/xz8eA==
+     code : |1+
+      
+      constant VOLUME_DEF = 60
+      
+      Volume 	est un entier 	= ChargeParamètre( "Volume", VOLUME_DEF )
+      Muet 	est un booléen 	= ChargeParamètre( "Mute", faux )
+      Polices	est un tableau de PolicePerso dynamique
+      
+      //////////////////////////////////////////////////////////////////////////////
+      // Charge la police Fontawesome utilisée dans le projet
+      //////////////////////////////////////////////////////////////////////////////
+      Polices.ajoute( allouer une PolicePerso( "Fonts\Font Awesome 5 Free-Regular-400.otf" ) )
+      Polices.ajoute( allouer une PolicePerso( "Fonts\Font Awesome 5 Free-Solid-900.otf" ) )
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Exécutable Windows 32 bits
+     identifier : 0x40ded62a0005944e
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
